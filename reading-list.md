@@ -4,7 +4,9 @@
 
 ## Books
 * [The Performance Stat Potential](https://www.brookings.edu/book/the-performancestat-potential/)
-
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+* [Data Wrangling With Python](http://shop.oreilly.com/product/0636920032861.do)
+* [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do)
 ## Journal Articles 
 
 ## Other
