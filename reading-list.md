@@ -4,6 +4,8 @@
 * [Recurse Center Rules](https://www.recurse.com/manual)
 * [Software Maintence is an anti-pattern](https://18f.gsa.gov/2016/02/23/software-maintenance-is-an-anti-pattern/)
 * [ETL for America](https://daguar.github.io/2014/03/17/etl-for-america/)
+* [Ops to the Nines - Basic Ops on Cloud Providers](https://source.opennews.org/articles/ops-nines/)
+
 ## Books
 * [The Performance Stat Potential](https://www.brookings.edu/book/the-performancestat-potential/)
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
