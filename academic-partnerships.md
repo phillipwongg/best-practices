@@ -1,4 +1,7 @@
 # Academic Partnerships
+
+The City has a [Data Science Federation](http://datasciencefederation.lacity.org/) to help foster academic partnerships between City of LA and the academic community. You can consult their website for prior project example. The [sample doucements](https://drive.google.com/drive/u/1/folders/0B8Gf1o2OExSETnFBR1V3Q0oxMkE) used there are avaliable online.
+
 ## Data Sharing
 It’s vital to avoid having to go back to a department partner and ask for more data, make sure you get what you need for your academic partner up front. Aim to include a data dictionary and schema. 
 
