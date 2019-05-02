@@ -5,6 +5,7 @@
 * [Software Maintence is an anti-pattern](https://18f.gsa.gov/2016/02/23/software-maintenance-is-an-anti-pattern/)
 * [ETL for America](https://daguar.github.io/2014/03/17/etl-for-america/)
 * [Ops to the Nines - Basic Ops on Cloud Providers](https://source.opennews.org/articles/ops-nines/)
+* [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science)
 
 ## Books
 * [The Performance Stat Potential](https://www.brookings.edu/book/the-performancestat-potential/)
