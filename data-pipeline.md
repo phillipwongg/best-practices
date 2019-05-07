@@ -17,7 +17,7 @@ The following are some tools that can help with establishing a robust data pipel
 
 Makefiles provide a plain-text way to describe data pipelines that run locally.
 They describe a series of rules that tell the computer how to execute commands to produce target files.
-These rules can declare other rules as depenencies, allowing `make` to only
+These rules can declare other rules as dependencies, allowing `make` to only
 run the commands necessary to produce a given target.
 
 Consider an analysis project that has separate scripts for downloading
@@ -34,8 +34,8 @@ which might look something like
 raw_data.csv:
   wget https://data-source.org/raw_data.csv
 
-cleaned_data.csv: mydata.csv
-  python clean_data.py --input mydata.csv --output cleaned_data.csv
+cleaned_data.csv: raw_data.csv
+  python clean_data.py --input raw_data.csv --output cleaned_data.csv
 
 insert: cleaned_data.csv
   python insert_data_in_database.py cleaned_data.csv
