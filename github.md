@@ -1,5 +1,5 @@
 
-# Helpful commands
+# Helpful git+GitHub commands
 
 Through your system's command line, you can control your GitHub repositories and branches with great precision. 
 This section is an evolving list of commands for common operations. Note that for many operations, GitHub has a variety of ways to accomplish the same or similar objective. These are but a few options.

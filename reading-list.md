@@ -19,6 +19,3 @@
 
 ## Talks
 * [I don't like notebooks.](https://www.youtube.com/watch?v=7jiPeIFXb6U)
-
-
-## Other

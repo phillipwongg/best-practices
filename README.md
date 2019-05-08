@@ -1,4 +1,6 @@
-# What is this site?
+# Data Science Best Practices
+
+## What is this site?
 This site contains documents describing best-practices for software development
 and data science projects within the City of Los Angeles. It not intended to be
 prescriptive, so much as a collection of hard-earned lessons regarding best-practices
@@ -8,7 +10,7 @@ This is a living document -- pull requests are welcome!
 
 ## Contents
 ### [Charting](./charting.md)
-### [Git/GitHub](./Github.md)
+### [Git/GitHub](./github.md)
 ### [Jupyter notebooks](./notebooks.md)
 ### [Data management and access](./data-pipeline.md)
 ### [Reading list](./reading-list.md)
