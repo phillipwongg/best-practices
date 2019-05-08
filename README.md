@@ -1,8 +1,8 @@
-# best-practices
+# What is this site?
 This site contains documents describing best-practices for software development
 and data science projects within the City of Los Angeles. It not intended to be
-prescriptive, so much as a collection of hard-earned lessons and the reasoning
-behind the practices.
+prescriptive, so much as a collection of hard-earned lessons regarding best-practices
+and the reasoning behind those practices.
 
 This is a living document -- pull requests are welcome!
 
