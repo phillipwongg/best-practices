@@ -1,5 +1,10 @@
 # best-practices
-Shared repository of data science best practices for City of LA.
+This site contains documents describing best-practices for software development
+and data science projects within the City of Los Angeles. It not intended to be
+prescriptive, so much as a collection of hard-earned lessons and the reasoning
+behind the practices.
+
+This is a living document -- pull requests are welcome!
 
 ## Contents
 ### [Charting](./charting.md)
@@ -11,8 +16,9 @@ Shared repository of data science best practices for City of LA.
 ### [Reading list](./reading-list.md)
 
 ## To Contribute
-Simply add a [Markdown](https://guides.github.com/features/mastering-markdown/) document to the repo containing the guide you'd like to add and make a pull request. 
+Add a [Markdown](https://guides.github.com/features/mastering-markdown/) document to the repository containing the guide you'd like to add and make a pull request. 
 
 ## Contact 
 Hunter Owens (hunter.owens@lacity.org)
 
+Ian Rose (ian.rose@lacity.org)
