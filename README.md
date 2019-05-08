@@ -11,8 +11,6 @@ This is a living document -- pull requests are welcome!
 ### [Git/GitHub](./Github.md)
 ### [Jupyter notebooks](./notebooks.md)
 ### [Data management and access](./data-pipeline.md)
-### [Data sharing agreements](./data-sharing.md)
-### [Procurement](./procurement.md)
 ### [Reading list](./reading-list.md)
 
 ## To Contribute
