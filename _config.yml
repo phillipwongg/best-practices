@@ -15,7 +15,9 @@ github_username:  CityOfLosAngeles
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
 
 exclude:
   - Gemfile
