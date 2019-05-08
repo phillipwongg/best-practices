@@ -15,6 +15,7 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-relative-links
   - jekyll-default-layout
+  - jekyll-titles-from-headings
 
 exclude:
   - Gemfile
