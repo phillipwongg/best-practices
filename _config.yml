@@ -1,0 +1,27 @@
+# Jekyll config for CityOfLosAngeles/best-practices
+title: City of Los Angeles Best Practices for Data Science Projects
+description: >- # this means to ignore newlines until "baseurl:"
+  This site contains documents describing best-practices for software development
+  and data science projects within the City of Los Angeles. It not intended to be
+  prescriptive, so much as a collection of hard-earned lessons and the reasoning
+  behind the practices.
+
+  This is a living document -- pull requests are welcome!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  CityOfLosAngeles
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
