@@ -14,8 +14,8 @@
 * [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do)
 
 ## Journal Articles 
-[The hard road to reproducibility](https://science.sciencemag.org/content/354/6308/142)
-[Reproducible and replicable CFD: it's harder than you think](https://arxiv.org/abs/1605.04339)
+* [The hard road to reproducibility](https://science.sciencemag.org/content/354/6308/142)
+* [Reproducible and replicable CFD: it's harder than you think](https://arxiv.org/abs/1605.04339)
 
 ## Talks
 * [I don't like notebooks.](https://www.youtube.com/watch?v=7jiPeIFXb6U)
