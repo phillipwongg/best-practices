@@ -56,24 +56,63 @@ query = "SELECT * FROM my_table_name LIMIT 10;"
 pd.read_sql(query,engine) 
 
 ```
+
 Note: This example shows how to make sure that Geometry types are inserted into POSTGIS (a point example) and limits the number of rows returned to 10 in the Query. You can execute abritrary SQL inside `pd.read_sql()`.
 
 ## Formats and use-cases 
-Data Interchange: Where everything can be broken
+Data Interchange: Where everything can be broken. 
 
 ### CSVs 
-CSVs are the lowest common denominator of data files.  
+CSVs are the lowest common denominator of data files. Best for getting raw data from SQL and storing large blobs on cloud services. For interchange, it is better to use paraquet or even excel as they preserve datatypes. 
 
 ### Excel / XLSX
-Excel Files 
-Best 
 
+Best for sharing with other teams, except for geographic info (use shapefiles or geojson instead).
+
+You often might want to write multiple dataframes to a single excel files as sheets. Here's a guide: 
+
+```
+## init a writer 
+writer = pd.ExcelWriter('../outputs/filename.xlsx', engine='xlsxwriter')
+
+## assume district_dfs is a list of dataframes by council district 
+Write each dataframe to a different worksheet.
+for key, value in district_dfs.items(): 
+    value.to_excel(writer, sheet_name=key)
+
+# Close the Pandas Excel writer and output the Excel file.
+writer.save()
+```
 ### Paraquet 
+Paraquet is an "open source columnar storage format for use in data analysis systems". Paraquet files are faster to read than CSVs, preserve datatypes (ie, Number,  Timestamps, Points). Best for intermediate data storage and large datasets (1GB+) on S3. 
+
+Also good for passing dataframes between Python + R. A similar option is [feather](https://blog.rstudio.com/2016/03/29/feather/).
+
+Not good for being able to quickly look at the dataset in GUI based (Excel, QGIS, etc) programs. 
+[Docs](https://arrow.apache.org/docs/python/parquet.html)
 
 ### Shapefiles 
+The original file format for geospatial data, geopandas has good support for reading / writing shapefiles. 
 
+One weird thing, however, is that a shapefile isn't a _file_, it's a _folder_, containing multiple subfiles (such as .dbf, .shpx, etc). To properly read/write shapefiles, make sure to read the entire folder or write to a folder each time. 
+
+It is often better to use `geojson` vs `shapefiles` since the former is easier to render on the web. The latter is better when you have a bespoke projection. 
+
+```
+
+import geopandas as gpd 
+import os
+
+# read shapefile 
+gpd.read_file('./my_folder/')
+
+# write shapefile 
+if not os.path.exists('./outputs/my_dir_name'):
+    os.mkdirs('./outputs/my_dir_name')
+gdf.to_file('./outputs/my_dir_name')
+```
 ### Databases 
 
 ### Pickles
-
+A way of  storing arbitrary pythion 
 ## Geospatial 
