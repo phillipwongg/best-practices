@@ -25,9 +25,9 @@ You can read more in the [boto3](https://boto3.amazonaws.com/v1/documentation/ap
 ### Local Folders 
 Sometimes, it is easiest to simply use your local file system to store data. As a manner of conventions, we use the `data` and `processed` directories, which  are automatically ignored from git from the project base `.gitignore`. 
 
-`/data` should be used for raw data, while `/processed` should be used for any intermediate steps. You can also duplicate this on S3. 
+`/data` should be used for raw data, while `/processed` should be used for any intermediate steps. You can also duplicate this on S3. Finally, `outputs/` for outputs. This should all best setup by our [data science template](https://github.com/CityOfLosAngeles/cookiecutter-data-science). If you use `data`, make sure all the data in it is documented in your README. 
 
-Don't hardcode paths, such as `//Users/YOUR_EID/
+Don't hardcode paths, such as `//Users/YOUR_EID/. You might need to use S3 or a cloud database if your data is big. 
 
 ### Databases 
 Finally, for analysis and storage purposes, it is sometimes best to store the data in a structured database for querying. We use `postgreSQL` for this purposes. 
@@ -112,7 +112,10 @@ if not os.path.exists('./outputs/my_dir_name'):
 gdf.to_file('./outputs/my_dir_name')
 ```
 ### Databases 
+A whole field of study, it is often useful to use a DB for analytics and aggegrated queries, rather than just your production datastore. Our team maintains a Postgresql + PostGIS DB to help us make complex spatial + geospatial queries. However, it is best practice to move those queries to python or a `Makefile` ASAP. 
 
 ### Pickles
-A way of  storing arbitrary pythion 
-## Geospatial 
+A way of  storing arbitrary python objects. Danger lives here. 
+
+### GeoJSON 
+The other important open geodata spec, geojson is often easier to work with than a shapefile. However, it can get very large very quickly. 
