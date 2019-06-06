@@ -12,7 +12,8 @@ This is a living document -- pull requests are welcome!
 ### [Charting](./charting.md)
 ### [Git/GitHub](./github.md)
 ### [Jupyter notebooks](./notebooks.md)
-### [Data management and access](./data-pipeline.md)
+### [Data Pipelines](./data-pipeline.md)
+### [Data Management / Files](./data-management.md)
 ### [Reading list](./reading-list.md)
 
 ## To Contribute
