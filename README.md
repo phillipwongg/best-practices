@@ -20,6 +20,4 @@ This is a living document -- pull requests are welcome!
 Add a [Markdown](https://guides.github.com/features/mastering-markdown/) document to the repository containing the guide you'd like to add and make a pull request. 
 
 ## Contact 
-Hunter Owens (hunter.owens@lacity.org)
-
-Ian Rose (ian.rose@lacity.org)
+To learn more about this project, contact the ITA Data Science team at [ITAData@lacity.org](mailto://itadata@lacity.org)
