@@ -60,7 +60,7 @@ pd.read_sql(query,engine)
 Note: This example shows how to make sure that Geometry types are inserted into POSTGIS (a point example) and limits the number of rows returned to 10 in the Query. You can execute abritrary SQL inside `pd.read_sql()`.
 
 ## Formats and use-cases 
-Data Interchange: Where everything can be broken. 
+Data Interchange: Where everything can be broken.
 
 ### CSVs 
 CSVs are the lowest common denominator of data files. Best for getting raw data from SQL and storing large blobs on cloud services. For interchange, it is better to use paraquet or even excel as they preserve datatypes. 
