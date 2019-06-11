@@ -1,6 +1,6 @@
 # Style Guide
 
-This style guide ensures a more uniform finish in Excel. Have fun Hunter.
+This style guide ensures a more uniform finish in Excel.
 
 ## Typography
 <b> Font: </b> Roboto
