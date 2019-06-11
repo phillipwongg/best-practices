@@ -6,13 +6,7 @@ This style guide ensures a more uniform finish in Excel.
 <b> Font: </b> Roboto
 
 ## Colors
-
-(Attach sample Excel spreadsheet with examples)
-
-<!DOCTYPE html>
-<html>
-
-<body>
+[Sample Excel](./assets/spreadsheets/StyleGuide.xlsx)
 
 <!-- HTML -->
 <h3>Two Groups Categorical
@@ -215,9 +209,6 @@ This style guide ensures a more uniform finish in Excel.
 		<td style="background-color:#A30F23;color:white;">#A30F23<br>rgb(163, 15, 35)</td>          
 	</tr>
 </table>
-    
-</body>
-</html>
 
 
 ## Chart Parts
