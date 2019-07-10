@@ -4,7 +4,7 @@
 Through your system's command line, you can control your GitHub repositories and branches with great precision. 
 This section is an evolving list of commands for common operations. Note that for many operations, GitHub has a variety of ways to accomplish the same or similar objective. These are but a few options.
 
-For a glossary of these terms and more, visit Below are basic steps you can take to create a pull workflow for your github repository.  This flow assumes you already have a repository.
+For a glossary of these terms and more, visit the [github site](https://help.github.com/en/articles/github-glossary). Below are basic steps you can take to create a pull workflow for your github repository.  This flow assumes you already have a repository.
 
 
 ### Committing 
