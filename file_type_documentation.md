@@ -144,7 +144,7 @@ gdf.to_file('./outputs/my_dir_name')
 ```
 
 ### PBF (Protocolbuffer Binary Format):
-Protocol Buffers is a method of serialized structured dta. It is used for storing and interchanging structured information of all types. PRB involves an interface description language that describes the structure of some data and a program that generates source code from that description for generating or parsing a stream of bytes that represents the structured data. As compared to XML, it is designed to be simpler and quicker. A benefit of using PBF is that it is easy to bind to objects. A consequence of using PBF is that parsing is sequential in the Protobuf library.
+Protocol Buffers is a method of serializing structured data. It is used for storing and interchanging structured information of all types. PRB involves an interface description language that describes the structure of some data and a program that generates source code from that description for generating or parsing a stream of bytes that represents the structured data. As compared to XML, it is designed to be simpler and quicker. A benefit of using PBF is that it is easy to bind to objects. A consequence of using PBF is that parsing is sequential in the Protobuf library.
 
 ### Databases 
 A whole field of study, it is often useful to use a DB for analytics and aggegrated queries, rather than just your production datastore. Our team maintains a Postgresql + PostGIS DB to help us make complex spatial + geospatial queries. However, it is best practice to move those queries to python or a `Makefile` ASAP. 
