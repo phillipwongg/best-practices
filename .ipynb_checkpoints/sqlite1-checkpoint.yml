@@ -1,0 +1,7 @@
+metadata:
+  version: 1
+sources:
+  walkability:
+    driver: sql_cat
+    args:
+      uri: 'sqlite:///test.db'

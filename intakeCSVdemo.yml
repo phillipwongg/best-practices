@@ -1,0 +1,11 @@
+metadata:
+  version: '1'
+sources:
+  parking_data:
+    driver: dcat
+    args:
+      url: https://geohub.lacity.org/data.json
+      name: parking_ride_data
+      items:
+        park_ride: http://geohub.lacity.org/datasets/c493f3d44e97482e90ce9355019b1349_187
+        metro_stops: http://geohub.lacity.org/datasets/6679d1ccc3744a7f87f7855e7ce33395_1

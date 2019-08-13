@@ -1,0 +1,7 @@
+metadata:
+  version: 1
+sources:
+  build_permit_data:
+    driver: dcat
+    args:
+      urlpath: https://data.lacity.org

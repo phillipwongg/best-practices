@@ -1,0 +1,39 @@
+metadata:
+  version: 1
+sources:
+  homeless_2017:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/Homeless_Count_by_Council_District__2017.zip'
+  homeless_2018:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/Homeless_Count_by_Council_District__2018.zip'
+  homeless_2019:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/Homeless_Count_Los_Angeles_County_2019.zip'
+  homeless_shelters:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{CATALOG_DIR }}/Homeless_Shelters_and_Services.zip'
+  la_city:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{CATALOG_DIR }}/City_Boundary.zip'
+  la_county:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{CATALOG_DIR }}/County_Boundary.zip'
+  council_districts:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{CATALOG_DIR }}/LA_City_Council_Districts_Adopted_2012.zip' 
+  census_data:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{CATALOG_DIR }}/Census_Tracts_2010_Population.zip' 
+      
+    
+          
+          

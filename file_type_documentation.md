@@ -106,7 +106,7 @@ df2 = df.to_parquet('Physical_Activity.parquet')
 ### Feather Files
 Feather provides a lightweight binary columnar serialization format for data frames. It is designed to make reading and writing data frames more efficient, as well as to make sharing data across languages easier. Just like Parquet, Feather is also capable of passing dataframes between Python and R, as well as storing column data types. 
 
-The Feather format is not compressed, allowing for faster input/output so ti works well with solid-state drives. Similarly, Feather doesn't need unpacking in order to load it back into RAM. 
+The Feather format is not compressed, allowing for faster input/output so it works well with solid-state drives. Similarly, Feather doesn't need unpacking in order to load it back into RAM. 
 
 Feather is not be the ideal file format if you're looking for long-term data storage. It is really only equipped for short-term data storage. The Feather files themselves are also smaller than CSVs and have a higher input/output speed, but they don't necessarily have the same level of compression as Parquet files. 
 
@@ -120,7 +120,7 @@ df = feather.read_dataframe(path)
 ```
 
 ### GeoJSON:
-GeoJSON is an [open-standard format](https://www.google.com) for encoding a variety of geographic data structures usin JavaScript Object Notation (JSON)  A GeoJSON object may represent a region of space (a Geometry), a spatially bounded entity (a Feature), or a list of Features (a FeatureCollection). It supports geometry types: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon, and GeometryCollection. JSON is light and easier to read than most geospatial formats, but GeoJSON files can quickly get too large to handle. The upside is that a GeoJSON file is often easier to work with than a Shapefile
+GeoJSON is an [open-standard format](https://geojson.org/) for encoding a variety of geographic data structures usin JavaScript Object Notation (JSON)  A GeoJSON object may represent a region of space (a Geometry), a spatially bounded entity (a Feature), or a list of Features (a FeatureCollection). It supports geometry types: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon, and GeometryCollection. JSON is light and easier to read than most geospatial formats, but GeoJSON files can quickly get too large to handle. The upside is that a GeoJSON file is often easier to work with than a Shapefile.
 
 ### Shapefiles 
 Shapefiles are a geospatial vector data format for geographic information system software and the original file format for geospatial data. They are capable of spatially describing vector features: points, lines, and polygons. Geopandas has good support for reading / writing shapefiles. 
@@ -144,7 +144,7 @@ gdf.to_file('./outputs/my_dir_name')
 ```
 
 ### PBF (Protocolbuffer Binary Format):
-Protocol Buffers is a method of serializing structured data. It is used for storing and interchanging structured information of all types. PRB involves an interface description language that describes the structure of some data and a program that generates source code from that description for generating or parsing a stream of bytes that represents the structured data. As compared to XML, it is designed to be simpler and quicker. A benefit of using PBF is that it is easy to bind to objects. A consequence of using PBF is that parsing is sequential in the Protobuf library.
+Protocol Buffers is a method of serializing structured data. It is used for storing and interchanging structured information of all types. PBF involves an interface description language that describes the structure of some data and a program that generates source code from that description for generating or parsing a stream of bytes that represents the structured data. As compared to XML, it is designed to be simpler and quicker. A benefit of using PBF is that you can define how you want your data to be structured once and then use special generated source code to easily write and read your structured dta to and from a variety of data streams. It is also possible to update the defined data structure without breaking deployed programs that are compiled against the older structure/format. Although PBF was designed to serve as a better method of making systems communicate with each other than XML, it doesn't necessarily have more than marginal advantages over JSON.
 
 ### Databases 
 A whole field of study, it is often useful to use a DB for analytics and aggegrated queries, rather than just your production datastore. Our team maintains a Postgresql + PostGIS DB to help us make complex spatial + geospatial queries. However, it is best practice to move those queries to python or a `Makefile` ASAP. 

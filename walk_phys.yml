@@ -1,0 +1,11 @@
+metadata:
+  version: 1
+sources:
+  walk_phys_data:
+    driver: dcat
+    args:
+      url: http://geohub.lacity.org/data.json
+      name: walk_phys_data
+      items:
+        walkability: 'http://geohub.lacity.org/datasets/fa7fbd24668f411587f9b5a8794562aa_0'
+        phys_act: 'http://geohub.lacity.org/datasets/620fc40aad31499cae66f9b7c0baa387_0'

@@ -1,0 +1,105 @@
+metadata:
+  version: 1
+sources:
+   #1) Local CSV
+  la_county:
+    driver: csv
+    args:
+      urlpath: '{{ CATALOG_DIR }}/County_Boundary.csv'
+  county_fuel:
+    driver: csv
+    args:
+      urlpath: '{{ CATALOG_DIR }}/County_Fueling_Stations.csv'
+  alternative_fuel:
+    driver: csv
+    args:
+        urlpath: '{{ CATALOG_DIR }}/Alternative_Fuel.csv'
+  la_city:
+    driver: csv
+    args:
+        urlpath: '{{ CATALOG_DIR }}/City_Boundary.csv'
+        
+   #2) Remote CSV
+  housing_data:  
+    driver: csv 
+    args:       
+        urlpath: 'https://data.lacity.org/api/views/vxhy-r447/rows.csv?accessType=DOWNLOAD'
+        csv_kwargs:             #allows me to download the file type without 'Bad URL error'
+            blocksize: null       
+            sample: false
+  affordable_data: 
+    driver: csv
+    args:
+        urlpath: 'https://data.lacity.org/api/views/u4mj-cwbz/rows.csv?accessType=DOWNLOAD'
+        csv_kwargs:
+            blocksize: null
+            sample: false
+            
+   #3) Local GeoJSON
+  walkability_data:
+    driver: geojson
+    args:
+      urlpath: '{{ CATALOG_DIR }}/Walkability_Index_Score_2012.geojson'
+  phys_act_data:
+    driver: geojson
+    args:
+      urlpath: '{{ CATALOG_DIR }}/Physical_Activity_18__Over_20112012.geojson'
+      
+   #4) Remote GeoJSON
+  la_open_data:
+    driver: dcat
+    args:
+      url: https://data.lacity.org/data.json
+      name: la-open-data
+  la_geohub:
+    driver: dcat
+    args:
+      url: http://geohub.lacity.org/data.json
+      name: la_geohub
+      items:
+        bikeways: http://geohub.lacity.org/datasets/2602345a7a8549518e8e3c873368c1d9_0 
+        city_boundary: http://geohub.lacity.org/datasets/09f503229d37414a8e67a7b6ceb9ec43_7
+        bike_racks: http://geohub.lacity.org/datasets/3b022cced9704108af157d3d5eedb268_2
+
+  #5) Local Shapefile
+  la_city:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/County_Boundary.zip'
+  la_county:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/County_Boundary.zip'
+  county_stations:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/County_Fueling_Stations.zip'
+  alternative_fuel:
+    driver: shapefile
+    args:
+      urlpath: 'zip://{{ CATALOG_DIR }}/Alternative_Fuel.zip'
+      
+  #6) Remote Shapefile   
+  build_permit_data:
+    driver: shapefile
+    args:
+      urlpath: 'http://geohub.lacity.org/datasets/012fa761d1124ef48be59a5ac22d13e6_190.zip'
+  
+  #7) Parquet
+  la_county:
+    driver: parquet
+    args:
+      urlpath: '{{ CATALOG_DIR }}/county_boundary.parq'
+  county_fuel:
+    driver: parquet
+    args:
+      urlpath: '{{ CATALOG_DIR }}/county_fueling_stations.parq'
+  alternative_fuel:
+    driver: parquet
+    args:
+        urlpath: '{{ CATALOG_DIR }}/alternative_fueling_stations.parq'
+  la_city:
+    driver: parquet
+    args:
+        urlpath: '{{ CATALOG_DIR }}/city_boundary.parq'
+        

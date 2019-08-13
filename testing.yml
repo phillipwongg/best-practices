@@ -1,0 +1,8 @@
+metadata:
+  version: 1
+sources:
+  la_open_data:
+    driver: dcat
+    args:
+      url: https://data.lacity.org/data.json
+      name: la_open_data

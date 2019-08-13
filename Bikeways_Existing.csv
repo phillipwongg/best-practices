@@ -1,0 +1,678 @@
+﻿OBJECTID,BPID,Miles,Network,Bikeway,Street,From_,To_,Shape_Leng,Install_Date,Region,Bikeway_Type
+1,1,0.52,Green,Path,98th St,Avalon Bl,Clovis Av,2644.96220303,2005-01-01T00:00:00.000Z,,Bike Path
+2,5,2.27,Green,Path,Arroyo Seco,York Bl,Montecito Heights Rec Center,11326.1999928,2005-01-01T00:00:00.000Z,,Bike Path
+3,8,0.07,Green,Path,Ballona Creek (East),National Bl,400' n/o National Bl,914.18037442,2005-01-01T00:00:00.000Z,,Bike Path
+4,9,2.49,Green,Path,Ballona Creek (West),Lincoln Bl,Sepulveda Bl,13405.1700231,2005-01-01T00:00:00.000Z,,Bike Path
+5,12,2.37,Green,Path,Burbank Bl,Balboa Bl,727' w/o I-405,10589.8338521,2005-01-01T00:00:00.000Z,,Bike Path
+6,13,0.38,Green,Path,Cabrillo Beach,Oliver Vickery Circle Wy,end of Jetty,2166.41043446,2005-01-01T00:00:00.000Z,,Bike Path
+7,14,0.52,Green,Path,Canterbury Av,Chase St,Reedley St,2730.79193858,2005-01-01T00:00:00.000Z,,Bike Path
+8,18,0.8,Green,Path,Chandler Bl,Vineland Av,Clybourn Av,4235.52809673,2005-01-01T00:00:00.000Z,,Bike Path
+9,19,0.45,Green,Path,Crescent Av,22nd St,Harbor Bl/Miner St,2440.14712812,2005-01-01T00:00:00.000Z,,Bike Path
+10,20,1.4,Green,Path,Culver Bl,McConnell Av,Sawtelle Bl,7351.66332653,2005-01-01T00:00:00.000Z,,Bike Path
+11,21,0.5,Green,Path,Devonshire St,Woodman Av,Arleta Av,3031.27435753,2005-01-01T00:00:00.000Z,,Bike Path
+12,22,3.79,Green,Path,Dockweiler State Beach,Ballona Creek,El Segundo City Limit,20298.6098919,2005-01-01T00:00:00.000Z,,Bike Path
+13,23,0.79,Green,Path,Dominguez Channel,03 mi w/o Vermont Av,W 190th St,4188.85186346,2005-01-01T00:00:00.000Z,,Bike Path
+14,28,2.27,Green,Path,Hansen Dam,N/A,N/A,12458.1142697,2005-01-01T00:00:00.000Z,,Bike Path
+15,29,0.38,Green,Path,Harbor Park,Gaffey St,Harbor Park,4403.39436891,2005-01-01T00:00:00.000Z,,Bike Path
+16,33,0.25,Green,Path,Imperial Hwy (W/B),200' E/O Hillcrest Av,200' e/o Pershing Dr,1544.6306827,2005-01-01T00:00:00.000Z,,Bike Path
+17,40,3.8,Green,Path,Orange Line (East),Haskell Av,Leghorn Av,20535.1329132,2005-10-29T00:00:00.000Z,,Bike Path
+18,41,4.6,Green,Path,Orange Line (West),Canoga Av,White Oak Av,24569.1597142,2005-10-29T00:00:00.000Z,,Bike Path
+19,44,1.08,Green,Path,Oxnard St,White Oak Av,Balboa Bl,5502.17143115,2005-01-01T00:00:00.000Z,,Bike Path
+20,50,0.8,Green,Path,Palos Verdes Dr,100' E/O Western Av,Gaffey St,3405.0873429,2005-01-01T00:00:00.000Z,,Bike Path
+21,52,0.41,Green,Path,Plummer St,Shoup Av,Hunt Club Ln,1982.00712916,2005-01-01T00:00:00.000Z,,Bike Path
+22,53,0.14,Green,Path,Sale Av,Oxnard St,Calvert St,664.78240329,2005-01-01T00:00:00.000Z,,Bike Path
+23,55,1.91,Green,Path,San Fernando Rd Phase I Path,Roxford St,Hubbard St,9941.23954545,2005-01-01T00:00:00.000Z,,Bike Path
+24,56,0.52,Green,Path,Tujunga Wash Path,Oxnard St,Burbank Bl,2429.09933305,2005-01-01T00:00:00.000Z,,Bike Path
+25,61,1.51,Green,Path,Venice Beach,Washington Bl,Santa Monica City Limit,8857.45118911,2005-01-01T00:00:00.000Z,,Bike Path
+26,62,2.64,Green,Path,Victory Bl,White Oak Av,405 Fwy,13193.2706749,2005-01-01T00:00:00.000Z,,Bike Path
+27,63,0.57,Green,Path,Westwood Park,Wilshire Bl/Veteran Av,Sepulveda Bl JNO Ohio Av,1981.84059088,2005-01-01T00:00:00.000Z,,Bike Path
+28,64,0.09,Green,Path,White Oak Av,N bank of LA River,Victory Bl,330.06292631,2005-01-01T00:00:00.000Z,,Bike Path
+29,65,1.37,Green,Path,Will Rogers State Beach,Temescal Canyon Rd,Santa Monica City Limit,6946.991646,2005-01-01T00:00:00.000Z,,Bike Path
+30,66,1.28,Green,Path,Woodley Av,Burbank Bl,Victory Bl,6187.55202002,2005-01-01T00:00:00.000Z,,Bike Path
+31,73,0.05,Backbone,Route,16th St (San Pedro) (E/B),Palos Verdes St,Beacon St,280.25542175,2005-01-01T00:00:00.000Z,,Bike Route
+32,76,0.04,Backbone,Route,21st St (San Pedro),Mesa St,Crescent Av,266.61993421,2005-01-01T00:00:00.000Z,,Bike Route
+33,78,0.1,Backbone,Route,22nd St (San Pedro),Pacific Av,Mesa St,669.97249367,2005-01-01T00:00:00.000Z,,Bike Route
+34,96,0.03,Backbone,Route,7th St (San Pedro),Beacon St,Harbor Bl,168.02217182,2005-01-01T00:00:00.000Z,,Bike Route
+35,99,0.64,Backbone,Lane,98th St,Vermont Av,Flower St,6964.63545068,2005-01-01T00:00:00.000Z,,Bike Lane
+36,100,0.4,Backbone,Lane,98th St,Western Av,Halldale Av,3976.06700889,2005-01-01T00:00:00.000Z,,Bike Lane
+37,101,0.78,Backbone,Lane,98th St,260' W/O Broadway,Avalon Bl,8352.93976358,2005-01-01T00:00:00.000Z,,Bike Lane
+38,102,0.7,Backbone,Route,9th St (San Pedro),Gaffey St,Beacon St,3616.2512887,2005-01-01T00:00:00.000Z,,Bike Route
+39,110,1.31,Backbone,Lane,Anaheim St,Henry Ford Av,"9th St/ ""I"" St (Long Beach)",6399.52894504,2005-01-01T00:00:00.000Z,,Bike Lane
+40,128,1.05,Backbone,Lane,Balboa Bl,940' S/O San Fernando Rd,Woodley Av,5572.17693687,2005-01-01T00:00:00.000Z,,Bike Lane
+41,130,0.6,Backbone,Route,Beacon St,Crescent Av,7th St (San Pedro),3212.27613868,2005-01-01T00:00:00.000Z,,Bike Route
+42,146,0.5,Backbone,Route,Broadway Pl,Broadway,Main St,2811.74873829,2005-01-01T00:00:00.000Z,,Bike Route
+43,158,0.5,Backbone,Lane,Canoga Av,Lassen St,Devonshire St,2642.12788354,2005-01-01T00:00:00.000Z,,Bike Lane
+44,160,1.1,Backbone,Lane,Central Av,Century Bl,Imperial Hwy,5901.8835356,2005-01-01T00:00:00.000Z,,Bike Lane
+45,172,1.06,Backbone,Lane,Chandler Bl,Van Nuys Bl,Woodman Av,11417.8970539,2005-01-01T00:00:00.000Z,,Bike Lane
+46,173,2.58,Backbone,Lane,Chandler Bl,Leghorn Av,Vineland Av,25565.6032152,2005-01-01T00:00:00.000Z,,Bike Lane
+47,176,0.1,Backbone,Route,Channel St,Gaffey St,Pacific Av,534.19450976,2005-01-01T00:00:00.000Z,,Bike Route
+48,183,0.33,Backbone,Route,Crescent Av,21st St (San Pedro),to Palos Verdes St/Beacon St,2021.873454,2005-01-01T00:00:00.000Z,,Bike Route
+49,184,0.8,Backbone,Lane,Crystal Springs Dr,Zoo Dr  (S Jog),Griffith Park Dr,4270.1919581,2005-01-01T00:00:00.000Z,,Bike Lane
+50,185,1.6,Backbone,Route,Crystal Springs Dr,Griffith Park Dr,Los Feliz Bl,16227.3660587,2005-01-01T00:00:00.000Z,,Bike Route
+51,188,1.28,Backbone,Lane,Cypress Av,Verdugo Rd,Pepper Av,6761.21557741,2005-01-01T00:00:00.000Z,,Bike Lane
+52,200,4,Backbone,Lane,Devonshire St,Topanga Canyon Bl,Reseda Bl,21138.9521763,2005-01-01T00:00:00.000Z,,Bike Lane
+53,202,1.22,Backbone,Lane,Eagle Rock Bl,Westdale Av,Verdugo Rd,10177.8601856,2005-01-01T00:00:00.000Z,,Bike Lane
+54,213,3.68,Backbone,Lane,Fallbrook Av,Roscoe Bl,Ventura Bl,19416.6400361,2005-01-01T00:00:00.000Z,,Bike Lane
+55,214,2.3,Backbone,Route,Figueroa St,State Dr,Olympic Bl,11913.0660955,2005-01-01T00:00:00.000Z,,Bike Route
+56,215,0.5,Backbone,Route,Figueroa St,San Fernando Rd,Cypress Av,2721.26945234,2005-01-01T00:00:00.000Z,,Bike Route
+57,216,0.1,Backbone,Route,Figueroa St,Av 43,Av 45,798.24396948,2005-01-01T00:00:00.000Z,,Bike Route
+58,232,1.96,Backbone,Lane,Forest Lawn Dr,Barham Bl,Zoo Dr,12079.842467,2005-01-01T00:00:00.000Z,,Bike Lane
+59,237,0.46,Backbone,Lane,Front St,Pacific Av,I-110 Fwy N/B On-Ramp,2520.11029421,2005-01-01T00:00:00.000Z,,Bike Lane
+60,241,2,Backbone,Lane,Gaffey St,Anaheim St,Channel St,10559.8847296,2005-01-01T00:00:00.000Z,,Bike Lane
+61,248,6.2,Backbone,Lane,Glenoaks Bl,Van Nuys Bl,Cohasset St,42816.1535791,2005-01-01T00:00:00.000Z,,Bike Lane
+62,249,0.39,Backbone,Lane,Grand Ave,Vista Del Mar,Loma Vista St,2047.54212432,2005-01-01T00:00:00.000Z,,Bike Lane
+63,250,1.74,Backbone,Lane,Griffith Park Bl,Los Feliz Bl,Lucile Av,9187.11181764,2005-01-01T00:00:00.000Z,,Bike Lane
+64,269,0.33,Backbone,Lane,Imperial Hwy,Vista Del Mar,Pershing Dr,3517.88529986,2005-01-01T00:00:00.000Z,,Bike Lane
+65,270,2.53,Backbone,Lane,Imperial Hwy,2000' E/O Pershing Dr,Aviation Bl,27022.1411304,2005-01-01T00:00:00.000Z,,Bike Lane
+66,273,1.38,Backbone,Lane,John S Gibson Bl,Channel St,Figueroa St,13422.8089642,2005-01-01T00:00:00.000Z,,Bike Lane
+67,281,2.39,Backbone,Lane,La Tuna Canyon Rd,Sunland Bl,3500' e/o Elben Av,6256.55679218,2008-05-07T00:00:00.000Z,,Bike Lane
+68,290,1.5,Backbone,Lane,Laurel Canyon Bl,Riverside Dr,Oxnard,7929.93217482,2005-01-01T00:00:00.000Z,,Bike Lane
+69,296,0.6,Backbone,Lane,Lincoln Bl,Jefferson Bl,LMU Dr,3011.77743707,2005-01-01T00:00:00.000Z,,Bike Lane
+70,309,1.32,Backbone,Lane,Manchester Av,Lincoln Bl,Sepulveda Bl,14028.7629788,2005-01-01T00:00:00.000Z,,Bike Lane
+71,310,1,Backbone,Lane,Martin Luther King Jr Bl,Rodeo Rd,Marlton Av,8070.82437275,2011-05-01T00:00:00.000Z,,Bike Lane
+72,314,0.06,Backbone,Route,Mesa St,22nd St,21st St (San Pedro),330.01131849,2005-01-01T00:00:00.000Z,,Bike Route
+73,315,0.6,Backbone,Lane,Miraleste Dr,989' N/O Village Way,Ninth St,3609.22430314,2005-01-01T00:00:00.000Z,,Bike Lane
+74,322,0.52,Backbone,Lane,Motor Av,Pico Bl,Monte Mar Dr,7727.26958607,2005-01-01T00:00:00.000Z,,Bike Lane
+75,323,0.3,Backbone,Lane,Motor Av,Manning Av,National Bl,1745.04274237,2005-01-01T00:00:00.000Z,,Bike Lane
+76,326,1.32,Backbone,Lane,Mulholland Dr,Calabasas Rd,1000' w/o San Feliciano Dr,13226.4280267,2005-01-01T00:00:00.000Z,,Bike Lane
+77,327,0.44,Backbone,Lane,Myra Av,Fountain Av,Santa Monica Bl,2153.94036085,2009-08-05T00:00:00.000Z,,Bike Lane
+78,332,0.3,Backbone,Route,Normandie Av,Vermont Av,Pacific Coast Hwy,1864.90125301,2005-01-01T00:00:00.000Z,,Bike Route
+79,335,0.5,Backbone,Lane,Normandie Av,Lomita Bl,Pacific Coast Hwy,2863.01351214,2005-01-01T00:00:00.000Z,,Bike Lane
+80,342,0.3,Backbone,Route,Pacific Ave,Front St,Channel St,1460.37165,2005-01-01T00:00:00.000Z,,Bike Route
+81,343,1.19,Backbone,Lane,Pacific Ave,22nd St,Shepard St,6282.53935068,2005-01-01T00:00:00.000Z,,Bike Lane
+82,345,0.07,Backbone,Route,Palos Verdes St (N/B),Crescent Av,16th St (San Pedro),329.91566181,2005-01-01T00:00:00.000Z,,Bike Route
+83,355,0.85,Backbone,Lane,Platt Av,Sherman Way,Victory Bl,4362.32638602,2005-01-01T00:00:00.000Z,,Bike Lane
+84,365,1.1,Backbone,Lane,Reseda Bl,Valerio St,Roscoe Bl,5811.61289624,2011-03-19T00:00:00.000Z,,Bike Lane
+85,369,0.1,Backbone,Route,Rinaldi St,Laurel Canyon Bl,Amboy Av,790.36066469,2005-01-01T00:00:00.000Z,,Bike Route
+86,376,0.75,Backbone,Lane,Riverside Dr,Tyrone Av,Woodman Av,3962.39846865,2005-01-01T00:00:00.000Z,,Bike Lane
+87,377,0.25,Backbone,Lane,Riverside Dr,Sunnyslope Av,Fulton Av,1320.29893034,2005-01-01T00:00:00.000Z,,Bike Lane
+88,378,1,Backbone,Lane,Riverside Dr,Coldwater Canyon Av,Laurel Cyn Bl,5231.45035523,2005-01-01T00:00:00.000Z,,Bike Lane
+89,384,2.22,Backbone,Lane,Roscoe Bl,Valley Circle Bl,535' w/o Topanga Cyn Bl,11730.6032577,2005-01-01T00:00:00.000Z,,Bike Lane
+90,385,1.02,Backbone,Lane,Roscoe Bl,Whitsett Av/Arleta Dr, Lankershim Bl,5383.80910303,2005-01-01T00:00:00.000Z,,Bike Lane
+91,386,0.5,Backbone,Route,Roscoe Bl,Topanga Canyon Bl,Canoga Av,2579.28479197,2005-01-01T00:00:00.000Z,,Bike Route
+92,387,0.03,Backbone,Route,Rossmore Av,Arden Pl,Melrose Av,136.04440714,2005-01-01T00:00:00.000Z,,Bike Route
+93,397,1.03,Backbone,Lane,San Vicente Bl,26th St,Bundy Dr,10867.2985573,2005-01-01T00:00:00.000Z,,Bike Lane
+94,401,1.72,Backbone,Lane,Santa Monica Bl,Sepulveda Bl,310' w/o Av of the Stars,18001.2655416,2007-06-30T00:00:00.000Z,,Bike Lane
+95,410,2.59,Backbone,Lane,Sepulveda Bl,300' N/O Sherman Oaks Av,Skirball Center Dr,13891.2726599,2005-01-01T00:00:00.000Z,,Bike Lane
+96,411,0.2,Backbone,Route,Sepulveda Bl,Ohio Av,Santa Monica Bl,1231.66176687,2005-01-01T00:00:00.000Z,,Bike Route
+97,412,1.47,Backbone,Lane,Sepulveda Bl,Centinela Av,Manchester Av,7818.588837,2005-01-01T00:00:00.000Z,,Bike Lane
+98,418,1.89,Backbone,Lane,Sherman Wy,Sherman Wy/Platt Av,420' w/o Topanga Cyn Bl,9957.29579503,2005-01-01T00:00:00.000Z,,Bike Lane
+99,419,1.51,Backbone,Lane,Sherman Wy,Laurel Cyn Bl,Vineland Av,7962.82530951,2005-01-01T00:00:00.000Z,,Bike Lane
+100,431,2.55,Backbone,Lane,Sunset Bl,Fountain Av,Douglas St,13472.8178565,2005-01-01T00:00:00.000Z,,Bike Lane
+101,445,4.91,Backbone,Lane,Valley Circle Bl,Roscoe Bl,Av San Luis,32444.3293465,2005-01-01T00:00:00.000Z,,Bike Lane
+102,452,9.1,Backbone,Lane,Venice Bl,Venice Wy,Crenshaw Bl (E/B)/La Fayette Rd (W/B),93817.6080113,2005-01-01T00:00:00.000Z,,Bike Lane
+103,455,0.2,Backbone,Route,Vermont Av,Anaheim St,Normandie Av,989.60770477,2005-01-01T00:00:00.000Z,,Bike Route
+104,456,0.7,Backbone,Route,Vermont Av,Jefferson Bl,39th St,3645.15183206,2005-01-01T00:00:00.000Z,,Bike Route
+105,467,1.88,Backbone,Lane,Victory Bl,Valley Circle Bl,Fallbrook Av,9230.61621052,2005-01-01T00:00:00.000Z,,Bike Lane
+106,475,0.75,Backbone,Lane,Washington Bl,Pacific Av,Mildred Av,4002.22370188,2005-01-01T00:00:00.000Z,,Bike Lane
+107,479,2.11,Backbone,Lane,Wentworth St,Sheldon St,McBroom St (Wheatland),11098.045609,2010-07-01T00:00:00.000Z,,Bike Lane
+108,483,2.37,Backbone,Lane,Westchester Pkwy,Pershing Dr,Sepulveda Wwy,25755.2717474,2005-01-01T00:00:00.000Z,,Bike Lane
+109,487,0.5,Backbone,Route,Western Av,Paseo Del Mar,25th St (San Pedro),2829.51589632,2005-01-01T00:00:00.000Z,,Bike Route
+110,492,0.2,Backbone,Lane,Western Heritage Wy,Zoo Dr (N Jog),Zoo Dr (S Jog),1879.3868318,2005-01-01T00:00:00.000Z,,Bike Lane
+111,496,0.52,Backbone,Lane,Westwood Bl,Wellworth Av,350' n/o Santa Monica Bl,2786.2771791,2005-01-01T00:00:00.000Z,,Bike Lane
+112,502,0.4,Backbone,Lane,White Oak Av,Victory Bl,Oxnard St,2357.44824153,2005-01-01T00:00:00.000Z,,Bike Lane
+113,512,2.3,Backbone,Lane,Winnetka Av,Gault St,Nordhoff St,11863.8334789,2010-07-01T00:00:00.000Z,,Bike Lane
+114,518,1.3,Backbone,Lane,York Bl,Eagle Rock Bl,Av 55,7064.77111628,2010-11-19T00:00:00.000Z,,Bike Lane
+115,522,1.9,Backbone,Lane,Zoo Dr,Forest Lawn Dr,Western Heritage Wy,10190.9418,2005-01-01T00:00:00.000Z,,Bike Lane
+116,581,0.25,Neighborhood,Lane,30th St,McClintock Av,University Av,1261.97712343,2005-01-01T00:00:00.000Z,,Bike Lane
+117,589,2.9,Neighborhood,Route,39th St,Buckingham Rd,Vermont Av,14970.6932088,2005-01-01T00:00:00.000Z,,Bike Route
+118,671,0.75,Neighborhood,Lane,92nd St,Firth Bl/Compton Av,Miner St,3921.18898025,2005-01-01T00:00:00.000Z,,Bike Lane
+119,679,1.4,Neighborhood,Lane,9th St (San Pedro),Miraleste Dr,Gaffey St,8279.11237805,2005-01-01T00:00:00.000Z,,Bike Lane
+120,705,0.4,Neighborhood,Route,Alumni Av,Eagle Rock Bl,Campus Dr,2111.91615225,2005-01-01T00:00:00.000Z,,Bike Route
+121,727,0.67,Neighborhood,Lane,Av 50,Monte Vista St,Irvington Pl,3433.47943481,2005-01-01T00:00:00.000Z,,Bike Lane
+122,728,0.6,Neighborhood,Route,Av 50,Irvington Pl,Stratford Rd,2908.23619733,2005-01-01T00:00:00.000Z,,Bike Route
+123,738,0.09,Neighborhood,Route,Av 63,Repton St,Meridian St,488.89029815,2005-01-01T00:00:00.000Z,,Bike Route
+124,745,1.11,Neighborhood,Lane,Avalon Bl,L St,246th St,5856.08322421,2005-01-01T00:00:00.000Z,,Bike Lane
+125,763,2.2,Neighborhood,Route,Barrington Av,Federal Av/Indianapolis St,Ohio Av,11726.7190703,2005-01-01T00:00:00.000Z,,Bike Route
+126,772,0.81,Neighborhood,Lane,Bell Cyn Bl,Ventura County  Line,Valley Circle Bl,4271.33545588,2005-01-01T00:00:00.000Z,,Bike Lane
+127,797,0.6,Neighborhood,Lane,Bluff Creek Dr,Lincoln Bl,Dawn Creek,5003.01934451,2005-01-01T00:00:00.000Z,,Bike Lane
+128,830,0.67,Neighborhood,Lane,Burbank Bl,Valerie Av,Platt Av/Burbank Bl,4339.81175805,2005-01-01T00:00:00.000Z,,Bike Lane
+129,839,0.3,Neighborhood,Route,Campus Rd,Alumni Av,Stratford Rd,1550.67922326,2005-01-01T00:00:00.000Z,,Bike Route
+130,842,0.06,Neighborhood,Route,Capistrano Av,Miranda St,Hatteras Av,295.53335444,2005-01-01T00:00:00.000Z,,Bike Route
+131,918,1.4,Neighborhood,Lane,Corbin Av,Porter Ranch Rd.,Rinaldi St,4065.51615014,2005-01-01T00:00:00.000Z,,Bike Lane
+132,934,0.4,Neighborhood,Route,Culver Bl,Pacific Av,Nicholson St,1914.67361346,2005-01-01T00:00:00.000Z,,Bike Route
+133,1057,0.12,Neighborhood,Lane,Gayley Av,Le Conte Av,Weyburn Av,1360.65939893,2005-01-01T00:00:00.000Z,,Bike Lane
+134,1081,0.56,Neighborhood,Lane,Grand View Bl,Palms Bl,Venice Bl,3011.36247,2005-01-01T00:00:00.000Z,,Bike Lane
+135,1115,0.6,Neighborhood,Route,Hayvenhurst Av,Ventura Bl,Burbank Bl,3437.92787615,2005-01-01T00:00:00.000Z,,Bike Route
+136,1140,1.39,Neighborhood,Lane,Hoover St,Venice Bl,Jefferson Bl,7462.27909514,2005-01-01T00:00:00.000Z,,Bike Lane
+137,1141,1.64,Neighborhood,Lane,Hoover St,120th St,98th St,8557.01243504,2009-02-05T00:00:00.000Z,,Bike Lane
+138,1142,4.4,Neighborhood,Route,Hoover St,98th St,MLK Jr Bl,23210.6254909,2005-01-01T00:00:00.000Z,,Bike Route
+139,1159,0.43,Neighborhood,Lane,Ingomar St,Valley Circle Bl,Platt Av,2294.74372381,2005-01-01T00:00:00.000Z,,Bike Lane
+140,1189,0.53,Neighborhood,Lane,L St,Harbor Park Bike Path,Figueroa Pl,4008.81552647,2005-01-01T00:00:00.000Z,,Bike Lane
+141,1190,0.05,Neighborhood,Route,L St,Figueroa Pl,Figueroa St,273.55662625,2005-01-01T00:00:00.000Z,,Bike Route
+142,1209,0.1,Neighborhood,Route,Lassen St,Orange Line Bikeway (W/O Old Depot Plaza Rd),Canoga Av,490.80623503,2005-01-01T00:00:00.000Z,,Bike Route
+143,1211,0.5,Neighborhood,Lane,Laurel Canyon Bl,Crestknoll Dr,Polk St,2606.83175127,2005-01-01T00:00:00.000Z,,Bike Lane
+144,1215,0.42,Neighborhood,Lane,Le Conte Av,Gayley Av,Hilgard Av,2188.96903137,2005-01-01T00:00:00.000Z,,Bike Lane
+145,1246,0.5,Neighborhood,Lane,Louise Av,Devonshire St,Lassen St,2640.50405835,2010-11-19T00:00:00.000Z,,Bike Lane
+146,1258,0.2,Neighborhood,Route,Malta St,Shanley Av,Av 50,841.49524839,2005-01-01T00:00:00.000Z,,Bike Route
+147,1271,0.7,Neighborhood,Route,Marmion Way,Av 45,Shanley Av,3605.8386326,2005-01-01T00:00:00.000Z,,Bike Route
+148,1274,1,Neighborhood,Lane,Martin Luther King Jr Bl,Main St,Central Av,5308.57902467,2005-01-01T00:00:00.000Z,,Bike Lane
+149,1276,0.9,Neighborhood,Lane,Mason Av,Trentino Ln,Celtic St,4626.44387726,2005-01-01T00:00:00.000Z,,Bike Lane
+150,1277,0.5,Neighborhood,Lane,Mason Av,Sesnon Bl,Northern City Limits,2681.58775829,2005-01-01T00:00:00.000Z,,Bike Lane
+151,1287,0.21,Neighborhood,Lane,McClintock Av,Jefferson Bl,30th St,981.58801884,2005-01-01T00:00:00.000Z,,Bike Lane
+152,1297,0.9,Neighborhood,Route,McLaughlin Av,Federal Av/Indianapolis St,Venice Bl,4773.18515724,2005-01-01T00:00:00.000Z,,Bike Route
+153,1305,1.6,Neighborhood,Route,Meridian St,Av 50,Av 63,8574.4897097,2005-01-01T00:00:00.000Z,,Bike Route
+154,1317,0.25,Neighborhood,Lane,Miner St,Crescent Av,22nd St,1326.9440823,2005-01-01T00:00:00.000Z,,Bike Lane
+155,1327,0.5,Neighborhood,Route,Montana Av,Sepulveda Bl,Veteran Av,2429.64985697,2005-01-01T00:00:00.000Z,,Bike Route
+156,1341,0.07,Neighborhood,Lane,Mulholland Hwy,Mulholland Dr,Southern City Limits,863.75250636,2005-01-01T00:00:00.000Z,,Bike Lane
+157,1351,0.4,Neighborhood,Route,National Bl,Overland Av,Motor Av,2115.01629929,2005-01-01T00:00:00.000Z,,Bike Route
+158,1380,0.4,Neighborhood,Lane,Ohio Av (E/B Only),Purdue Av,Sepulveda Bl,1972.56395663,2005-01-01T00:00:00.000Z,,Bike Lane
+159,1383,0.1,Neighborhood,Route,Oliver Vickery Circle Wy,Stephen M White Dr,Cabrillo Beach,788.55098726,2005-01-01T00:00:00.000Z,,Bike Route
+160,1394,2.2,Neighborhood,Route,Osborne St,Woodman Av,San Fernando Rd,11716.7511598,2005-01-01T00:00:00.000Z,,Bike Route
+161,1408,0.05,Neighborhood,Lane,Pacific Av (Venice) (N/B Only),S Venice Bl,N Venice Bl,236.31614511,2005-01-01T00:00:00.000Z,,Bike Lane
+162,1409,0.3,Neighborhood,Lane,Pacific Promenade,Playa Vista Dr,Seabluff Dr,1477.0374552,2005-01-01T00:00:00.000Z,,Bike Lane
+163,1414,0.05,Neighborhood,Lane,Para Way,Runway Rd,Pacific Promenade,257.00030139,2005-01-01T00:00:00.000Z,,Bike Lane
+164,1424,1.74,Neighborhood,Lane,Pershing Dr,Westchester Pkwy,Imperial Hwy,15865.4127105,2006-10-13T00:00:00.000Z,,Bike Lane
+165,1430,1.06,Neighborhood,Lane,Platt Av,Ingomar St,Sherman Way,5601.16798008,2005-01-01T00:00:00.000Z,,Bike Lane
+166,1431,0.92,Neighborhood,Lane,Platt Av,Victory Bl,Burbank Bl/Platt Av,4997.17085815,2005-01-01T00:00:00.000Z,,Bike Lane
+167,1433,0.3,Neighborhood,Lane,Playa Vista Dr,Jefferson Bl,Bluff Creek Dr,3691.15565557,2005-01-01T00:00:00.000Z,,Bike Lane
+168,1440,0.2,Neighborhood,Lane,Plummer St,Reseda Bl,Etiwanda Av,1320.76914673,2010-03-21T00:00:00.000Z,,Bike Lane
+169,1441,1.27,Neighborhood,Lane,Plummer St,Winnetka Av,Vanalden Av,6645.44810435,2005-01-01T00:00:00.000Z,,Bike Lane
+170,1442,1.18,Neighborhood,Lane,Plummer St,Zelzah Av,Balboa Bl,6281.34198984,2005-01-01T00:00:00.000Z,,Bike Lane
+171,1443,3.3,Neighborhood,Route,Plummer St,Balboa Bl,Woodman Av,17277.0819071,2005-01-01T00:00:00.000Z,,Bike Route
+172,1444,0.7,Neighborhood,Route,Plummer St,Vanalden Av,Reseda Bl,3962.7521149,2005-01-01T00:00:00.000Z,,Bike Route
+173,1445,1,Neighborhood,Route,Plummer St,De Soto Av,Winnetka Av,5244.62676566,2005-01-01T00:00:00.000Z,,Bike Route
+174,1447,0.32,Neighborhood,Lane,Polk St,Sunrise Ridge Rd,Laurel Canyon Bl,1699.91607225,2005-01-01T00:00:00.000Z,,Bike Lane
+175,1449,0.8,Neighborhood,Lane,Porter Ranch Dr,Corbin Av,Sesnon Bl,4229.94309357,2005-01-01T00:00:00.000Z,,Bike Lane
+176,1477,0.2,Neighborhood,Route,Repton St,Av 63,Av 66,1178.62826458,2005-01-01T00:00:00.000Z,,Bike Route
+177,1478,1.62,Neighborhood,Lane,Reseda Bl,Rinaldi St,Sesnon Bl,8581.01217633,2005-01-01T00:00:00.000Z,,Bike Lane
+178,1498,0.89,Neighborhood,Lane,Rose Av,185' E/O Lincoln Bl,Walgrove Av,4515.55869482,2006-06-30T00:00:00.000Z,,Bike Lane
+179,1510,0.2,Neighborhood,Lane,Runway Rd,Dawn Creek,Para Way,1135.11536369,2005-01-01T00:00:00.000Z,,Bike Lane
+180,1526,0.4,Neighborhood,Lane,San Pedro St,115th St,120th St,2322.4217443,2010-09-19T00:00:00.000Z,,Bike Lane
+181,1545,0.05,Neighborhood,Lane,Seabluff Dr,Runway Rd,Pacific Promenade,257.25793211,2005-01-01T00:00:00.000Z,,Bike Lane
+182,1555,1.79,Neighborhood,Lane,Sesnon Bl,Mason Av,Tampa Av,9916.9002975,2005-01-01T00:00:00.000Z,,Bike Lane
+183,1556,0.1,Neighborhood,Route,Shanley Av,Marmion Wy,Malta St,596.14363784,2005-01-01T00:00:00.000Z,,Bike Route
+184,1586,0.2,Neighborhood,Route,Stephen M White Dr,Pacific Av,Oliver Vickery Circle Wy,750.92527896,2005-01-01T00:00:00.000Z,,Bike Route
+185,1592,0.2,Neighborhood,Route,Stratford Rd,Campus Dr,Av 50,1258.33021468,2005-01-01T00:00:00.000Z,,Bike Route
+186,1597,1.03,Neighborhood,Lane,Strathern St,Coldwater Canyon Av,Laurel Cyn Bl,5402.63053949,2005-01-01T00:00:00.000Z,,Bike Lane
+187,1605,1.78,Neighborhood,Lane,Tampa Av,Sesnon Bl,Rinaldi St,9431.67012356,2005-01-01T00:00:00.000Z,,Bike Lane
+188,1611,1.04,Neighborhood,Lane,Temescal Canyon Rd,Pacific Coast Hwy,Sunset Bl,6925.58719222,2005-01-01T00:00:00.000Z,,Bike Lane
+189,1640,0.08,Neighborhood,Lane,University Av,28th St,30th St,426.40219051,2005-01-01T00:00:00.000Z,,Bike Lane
+190,1656,0.4,Neighborhood,Lane,Valmar Rd,Mulholland Dr,Ventura Co Line (Peacock Ct),2050.79203219,2005-01-01T00:00:00.000Z,,Bike Lane
+191,1678,0.04,Neighborhood,Lane,Vineland Av,Chandler Bl N,Chandler Bl S,206.9030152,2006-06-30T00:00:00.000Z,,Bike Lane
+192,1730,2,Neighborhood,Lane,Wilbur Av,Nordhoff St,Chatsworth St,10564.9978998,2010-11-19T00:00:00.000Z,,Bike Lane
+193,1749,3,Neighborhood,Lane,Woodley Av,Rinaldi St,Nordhoff St,15840.7325796,2005-01-01T00:00:00.000Z,,Bike Lane
+194,1750,1,Neighborhood,Lane,Woodley Av,Sherman Wy,Victory Bl,5330.95018584,2005-01-01T00:00:00.000Z,,Bike Lane
+195,1762,0.2,Neighborhood,Lane,Av 18,Barranca St,Broadway/Spring St,1271.3118382,2012-01-15T00:00:00.000Z,,Bike Lane
+196,1763,0.07,Neighborhood,Lane,Barranca St,Av 18,Av 19,391.18524115,2012-01-15T00:00:00.000Z,,Bike Lane
+197,1764,0.25,Backbone,Lane,Riverside Dr,N Woodman Av,Sunnyslope Av,1320.38763307,2011-07-05T00:00:00.000Z,,Bike Lane
+198,1765,0.5,Backbone,Lane,Riverside Dr,Fulton Av,Coldwater Canyon Av,2640.39593512,2011-07-05T00:00:00.000Z,,Bike Lane
+199,1766,1.29,Backbone,Lane,Wentworth St,Wheatland Av,Foothill Bl,6711.62034073,2011-07-05T00:00:00.000Z,,Bike Lane
+200,1767,3.4,Backbone,Lane,Exposition Bl,Harcourt Av,Vermont Av,24766.701313,2011-06-01T00:00:00.000Z,,Bike Lane
+201,1769,0.3,Backbone,Lane,Sheldon St,Glenoaks Bl,Wentworth St,1717.39880966,2011-07-05T00:00:00.000Z,,Bike Lane
+202,1771,0.81,Backbone,Sharrowed Route,Adams Bl,Vermont Av,Chester Pl,4271.7982648,2010-07-07T00:00:00.000Z,,Sharrowed Bike Route
+203,1774,1,Neighborhood,Sharrowed Route,Fountain Av,Western Av,Vermont Av,5292.02543,2010-07-14T00:00:00.000Z,,Sharrowed Bike Route
+204,1776,0.5,Neighborhood,Sharrowed Route,Fountain Av,Vermont Av,Sunset Bl,2310.0909647,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+205,1777,0.8,Backbone,Sharrowed Route,Reseda Bl,Valerio St,Vanowen St,3968.24405776,2010-07-16T00:00:00.000Z,,Sharrowed Bike Route
+206,1778,1.3,Neighborhood,Sharrowed Route,Westholme Av,Hilgard Av,Santa Monica Bl,6664.92359307,2010-07-20T00:00:00.000Z,,Sharrowed Bike Route
+207,1781,0.5,Neighborhood,Lane,Woodley Av,Sherman Wy,Saticoy St,2600.94956611,2010-10-19T00:00:00.000Z,,Bike Lane
+208,1782,0.31,Neighborhood,Lane,Woodley Av,Saticoy St,Stagg St,1319.1223402,2011-07-15T00:00:00.000Z,,Bike Lane
+209,1783,0.8,Neighborhood,Route,Woodley Av,Stagg St,Chase St,4732.15663246,2005-01-01T00:00:00.000Z,,Bike Route
+210,1784,0.5,Backbone,Lane,Woodman Av,Burbank Bl,Oxnard St,2646.79632673,2009-06-30T00:00:00.000Z,,Bike Lane
+211,1785,1,Backbone,Lane,Woodman Av,Oxnard St,Vanowen St,5289.87674747,2011-03-19T00:00:00.000Z,,Bike Lane
+212,1786,0.4, ,Lane,Via Dolce,Marquesas Wy,Washington Bl,1964.57642808,2011-07-22T00:00:00.000Z,,Bike Lane
+213,1787,1.5,Backbone,Lane,Jefferson Bl,La Cienega Bl,Harcourt Av,6488.52613197,2011-08-23T00:00:00.000Z,,Bike Lane
+214,1789,1.5,Backbone,Lane,7th St,Rampart Bl,Figueroa St,7995.39727703,2011-08-30T00:00:00.000Z,,Bike Lane
+215,1790,0.7,Neighborhood,Lane,7th St,Catalina St,Rampart Bl,3698.86692749,2011-08-30T00:00:00.000Z,,Bike Lane
+216,1791,0.6,Backbone,Lane,Cahuenga Bl E,Yucca St,Odin St (Northern-most),2801.34414169,2011-09-05T00:00:00.000Z,,Bike Lane
+217,1793,1.6,Backbone,Lane,1st St,Boyle Av,Lorena St,8443.29928728,2011-09-05T00:00:00.000Z,,Bike Lane
+218,1796,0.5,Backbone,Lane,Reseda Bl,Parthenia St,Roscoe Bl,3283.11546987,2011-09-12T00:00:00.000Z,,Bike Lane
+219,1797,1.2,Backbone,Lane,Tuxford St,Lankershim Bl,Glen Oaks Bl,7100.73107759,2011-09-23T00:00:00.000Z,,Bike Lane
+220,1799,0.54,Backbone,Lane,Vermont Av,Knox St,Del Amo Bl,2910.34607104,2011-11-13T00:00:00.000Z,,Bike Lane
+221,1800,1.4,Backbone,Lane,Spring St,Cesar E Chavez Av,9th St,7657.2049417,2011-11-20T00:00:00.000Z,,Bike Lane
+222,1801,0.77,Backbone,Lane,Washington Pl,Grand View Bl,25' w/o Albright Av,3906.58433083,2011-12-11T00:00:00.000Z,,Bike Lane
+223,1803,0.16,Neighborhood,Lane,Av 19,500 ft N/o Humbolt St,Barranca St,869.76905257,2012-01-15T00:00:00.000Z,,Bike Lane
+224,1804,0.2,Neighborhood,Lane,Av 19,Barranca St,Broadway,1270.93466308,2012-01-15T00:00:00.000Z,,Bike Lane
+225,1806,0.8,Neighborhood,Lane,Main St,Santa Monica City Limits,Grand Av,4665.63050331,2012-01-29T00:00:00.000Z,,Bike Lane
+226,1808,1.5,Backbone,Lane,Foothill Bl,Wheatland Av,Wentworth St,8033.47757585,2012-02-05T00:00:00.000Z,,Bike Lane
+227,1810,0.98,Backbone,Lane,Aviation Bl,Century Bl,Imperial Hwy,5310.05462915,2012-02-19T00:00:00.000Z,,Bike Lane
+228,1812,0.76,Backbone,Lane,Main St,Venice Bl,9th St,3749.56353175,2012-02-12T00:00:00.000Z,,Bike Lane
+229,1814,1.4,Backbone,Route,Main St,Broadway Pl,Venice Bl,7147.39683941,2005-01-01T00:00:00.000Z,,Bike Route
+230,1818,1,Green,Path,Balboa Bl E,Victory Bl,Burbank Bl,5119.75770345,2005-01-01T00:00:00.000Z,,Bike Path
+231,1819,1,Green,Path,Balboa Bl W,Victory Bl,Burbank Bl,5199.51087151,2005-01-01T00:00:00.000Z,,Bike Path
+232,1820,1.4,Backbone,Sharrowed Route,Arden Bl,Wilshire Bl,Arden Pl,7585.0652148,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+233,1821,0.05,Backbone,Sharrowed Route,Arden Pl,Arden Bl,Rossmore Av,256.53426757,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+234,1822,0.1,Backbone,Sharrowed Route,Vine St,Hollywood Bl,Yucca St,774.74886139,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+235,1826,0.1,Neighborhood,Sharrowed Route,La Mirada Av,Bronson Av,Van Ness Av,662.83398168,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+236,1828,0.07,Neighborhood,Sharrowed Route,Van Ness Av,La Mirada Av,Fountain Av,348.68047998,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+237,1829,0.05,Green,Path,Ballona Creek,St Nicholas Av,285' s/o St Nicholas Av,284.2288707,2005-01-01T00:00:00.000Z,,Bike Path
+238,1830,0.91,Green,Path,Browns Canyon Wash,314' s/o Rinaldi St,Devonshire St,4840.58810656,2005-01-01T00:00:00.000Z,,Bike Path
+239,1831,0.47,Green,Path,Browns Canyon Wash,192' s/o Devonshire St,Lassen St,2525.57217926,2005-01-01T00:00:00.000Z,,Bike Path
+240,1832,0.23,Green,Path,Ballona Creek Path,Los Angeles city limit,62nd,1199.5433428,2005-01-01T00:00:00.000Z,,Bike Path
+241,1833,0.6,Backbone,Sharrowed Route,Laurel Canyon Bl,Oxnard St,Hamlin St,6632.76606113,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+242,1834,0.3,Neighborhood,Sharrowed Route,McConnell Av,Culver Bl,Ballona Creek Path,1434.66259803,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+243,1835,0.9,Backbone,Sharrowed Route,Motor Av,Monte Mar Dr,Manning Av,4977.0624046,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+244,1837,0.4,Backbone,Sharrowed Route,Venice Bl (North),Ocean Front Walk,Venice Wy,2055.7057542,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+245,1838,0.4,Backbone,Sharrowed Route,Polk St,Sunrise Ridge Rd,San Fernando Rd,1767.12303415,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+246,1839,0.51,Neighborhood,Sharrowed Route,State St,Cesar E Chavez Av,Fourth St,2790.47729897,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+247,1841,0.48,Neighborhood,Sharrowed Route,Breed St,4th St,Cesar E Chavez Av,2553.98185486,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+248,1842,0.47,Neighborhood,Sharrowed Route,Mott St,4th St,Cesar E Chavez Av,2567.01059827,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+249,1843,2.6,Neighborhood,Sharrowed Route,51st St,Hoover St,Long Beach Av,13139.3873031,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+250,1846,2.3,Backbone,Sharrowed Route,Redondo Bl,La Brea Av,Jefferson Bl,12129.0913108,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+251,1847,0.7,Neighborhood,Sharrowed Route,Gayley Av,Le Conte Av,Landfair Av,3502.02773555,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+252,1848,0.1,Neighborhood,Route,Gayley Av,Landfair Av,Veteran Av,3320.30904538,2005-01-01T00:00:00.000Z,,Bike Route
+253,1849,0.83,Neighborhood,Sharrowed Route,Heliotrope Dr,Santa Monica Bl,Rosewood Av,4299.66458786,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+254,1850,0.8,Neighborhood,Sharrowed Route,New Hampshire Av,Rosewood Av,4th St,4250.38826286,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+255,1851,0.12,Neighborhood,Sharrowed Route,Rosewood Av,New Hampshire Av,Heliotrope Dr (east jog),624.41431716,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+256,1854,0.8,Backbone,Lane,Devonshire St,Sepulveda Bl,Woodman Av,3990.28109478,2012-02-26T00:00:00.000Z,,Bike Lane
+257,1856,1.08,Backbone,Lane,Eagle Rock Bl,Verdugo Rd,Cypress Av,10418.6794697,2005-01-01T00:00:00.000Z,,Bike Lane
+258,1857,0.61,Neighborhood,Lane,Rampart Bl,6th St,Beverly Bl,2912.17222618,2012-03-04T00:00:00.000Z,,Bike Lane
+259,1859,0.2,Neighborhood,Route,Rampart Bl,Beverly Bl,Temple St,1249.24052119,2005-01-01T00:00:00.000Z,,Bike Route
+260,1861,0.3,Neighborhood,Lane,Vineland Av,Chandler Bl N,Burbank Bl,1478.74343334,2012-03-11T00:00:00.000Z,,Bike Lane
+261,1863,2.5,Backbone,Lane,Devonshire St,Reseda Bl,Hayvenhurst Av,12856.1857753,2012-03-31T00:00:00.000Z,,Bike Lane
+262,1864,0.2,Backbone,Lane,National Pl,Malcolm Av,Overland Av,860.56530189,2012-03-11T00:00:00.000Z,,Bike Lane
+263,1865,0.1,Backbone,Lane,Westwood Bl,National Bl,Malcolm Av,675.88863958,2012-03-11T00:00:00.000Z,,Bike Lane
+264,1866,1.6,Backbone,Route,Westwood Bl,Santa Monica Bl,National Bl,8394.82480945,2005-01-01T00:00:00.000Z,,Bike Route
+265,1867,0.3,None,Route,Foothill Pl,Foothill Bl,Foothill Bl,1999.07814864,2012-02-05T00:00:00.000Z,,Bike Route
+266,1868,0.5,Backbone,Lane,Woodman Av,Lassen St,Devonshire Av,2789.48225815,2005-01-01T00:00:00.000Z,,Bike Lane
+267,1869,0.8,Neighborhood,Lane,Woodley Av,Nordhoff St,Chase St,3960.26956177,2005-01-01T00:00:00.000Z,,Bike Lane
+268,1870,0.86,Backbone,Lane,Chandler Bl,Woodman Av,Leghorn Av,9282.15024562,2011-12-18T00:00:00.000Z,,Bike Lane
+269,1871,0.3,Backbone,Lane,La Tuna Canyon Rd,Glenoaks Bl,Sunland Bl,1318.24367674,2012-04-06T00:00:00.000Z,,Bike Lane
+270,1872,0.51,Neighborhood,Lane,Sesnon Bl,Tampa Av,Reseda Bl,2319.090858,2012-05-13T00:00:00.000Z,,Bike Lane
+271,1873,0.1,Neighborhood,Lane,Sesnon Bl,Reseda Bl,Beaufait Av,660.54810356,2012-05-13T00:00:00.000Z,,Bike Lane
+272,1875,1.2,Backbone,Lane,Sepulveda Bl,National Bl,Venice Bl,6251.13933476,2012-04-06T00:00:00.000Z,,Bike Lane
+273,1877,0.7,Backbone,Lane,Van Nuys Bl,Bessemer St,Chandler Bl,4187.29408928,2012-04-15T00:00:00.000Z,,Bike Lane
+274,1879,1.9,Backbone,Lane,White Oak Av,Roscoe Bl,Vanowen St,9867.68008539,2012-05-06T00:00:00.000Z,,Bike Lane
+275,1881,1.01,Backbone,Lane,Main St,92nd St,108th St,5287.27212272,2012-04-28T00:00:00.000Z,,Bike Lane
+276,1884,0.9,Backbone,Lane,York Bl,Av 55,Figueroa St N,4632.55396959,2012-07-01T00:00:00.000Z,,Bike Lane
+277,1886,0.6,Backbone,Lane,Laurel Canyon Bl,Rinaldi St,Crestknoll Dr,3383.0844365,2012-05-13T00:00:00.000Z,,Bike Lane
+278,1888,0.9,Neighborhood,Lane,Colfax Av,Riverside Dr,Chiquita St,4769.22716178,2005-04-11T00:00:00.000Z,,Bike Lane
+279,1889,0.2,Backbone,Lane,Reseda Bl,Kittridge St,Vanowen St,1320.72520122,2009-06-30T00:00:00.000Z,,Bike Lane
+280,1890,1.5,Backbone,Lane,Reseda Bl,Ventura Bl,Kittridge St,7803.74050133,2005-01-01T00:00:00.000Z,,Bike Lane
+281,1891,1,Backbone,Lane,Reseda Bl,San Fernando Mission,Devonshire St,5235.16047129,2010-05-19T00:00:00.000Z,,Bike Lane
+282,1895,0.3,Backbone,Lane,Reseda Bl,Mecca Av,Ventura Bl,1015.53940152,2006-07-13T00:00:00.000Z,,Bike Lane
+283,1896,1.3,Backbone,Lane,Rinaldi St,Mason Av,Tampa Av,6809.63928878,2010-09-19T00:00:00.000Z,,Bike Lane
+284,1897,0.71,Backbone,Lane,Rinaldi St,De Soto Av,Mason Av,3799.80519475,2005-01-01T00:00:00.000Z,,Bike Lane
+285,1898,6.1,Backbone,Lane,Rinaldi St,Tampa Av,Laurel Canyon Bl,31200.0430088,2005-01-01T00:00:00.000Z,,Bike Lane
+286,1899,0.24,Backbone,Lane,De Soto Av,Victory Bl,El Rancho Dr,1325.73494026,2007-06-30T00:00:00.000Z,,Bike Lane
+287,1900,0.85,Backbone,Lane,De Soto Av,El Rancho Dr,Burbank Bl,917.79881395,2005-01-01T00:00:00.000Z,,Bike Lane
+288,1901,0.5,Backbone,Lane,Devonshire St,Hayvenhusrt Av,Woodley Av,2640.69437846,2005-01-01T00:00:00.000Z,,Bike Lane
+289,1902,0.49,Backbone,Lane,Devonshire St,Woodley Av,Haskell Av,2640.32388608,2006-06-30T00:00:00.000Z,,Bike Lane
+290,1903,0.35,Backbone,Lane,Harbor Bl,I-110 Fwy,3rd St,5331.30093671,2005-01-01T00:00:00.000Z,,Bike Lane
+291,1904,1.08,Backbone,Lane,Harbor Bl,3rd St,22nd St,7069.92132984,2007-06-30T00:00:00.000Z,,Bike Lane
+292,1905,4.5,Green,Path,LA River Path,Riverside Dr (at Zoo Dr),Fletcher Dr,24266.6864134,2005-01-01T00:00:00.000Z,,Bike Path
+293,1906,2.6,Green,Path,LA River Path,Fletcher Dr,Barclay St,12959.2473683,2010-12-06T00:00:00.000Z,,Bike Path
+294,1907,0.82,Neighborhood,Lane,Oxnard St,Topanga Cyn Bl,De Soto Av,6653.81072959,2007-06-30T00:00:00.000Z,,Bike Lane
+295,1908,1.23,Neighborhood,Lane,Oxnard St,De Soto Av,Winnetka Av,6334.4042181,2003-11-05T00:00:00.000Z,,Bike Lane
+296,1909,0.12,Backbone,Lane,Laurel Canyon Bl,Hamlin St,Kittridge St,661.14242432,2006-06-30T00:00:00.000Z,,Bike Lane
+297,1910,0.3,Backbone,Lane,Laurel Canyon Bl,Kittridge St,Vanowen St,1321.44333928,2005-01-01T00:00:00.000Z,,Bike Lane
+298,1911,0.38,Backbone,Lane,Laurel Canyon Bl,Vanowen St,Sherman Way,2428.08343123,2009-06-30T00:00:00.000Z,,Bike Lane
+299,1912,1.8,Backbone,Lane,Laurel Canyon Bl,Sherman Way,Peoria St,10891.6163646,2005-01-01T00:00:00.000Z,,Bike Lane
+300,1913,0.21,Neighborhood,Lane,Weymouth Av,9th Street,Weymouth Ave,1258.97385808,2012-05-06T00:00:00.000Z,,Bike Lane
+301,1914,0.6, ,Lane,13th St,Weymouth Ave,Alma St,2907.14415729,2012-05-06T00:00:00.000Z,,Bike Lane
+302,1915,1.2, ,Lane,Via Marisol,Monterey Rd,Lomitas Dr,1114.25400058,2012-05-13T00:00:00.000Z,,Bike Lane
+303,1916,0.8,Backbone,Lane,Polk St,San Fernando Rd,Glenoaks Bl,4029.33632273,2012-05-13T00:00:00.000Z,,Bike Lane
+304,1919,0.5,Backbone,Lane,120th St,Main St,Avalon Bl,2640.13972399,2012-05-13T00:00:00.000Z,,Bike Lane
+305,1922,0.4,Backbone,Lane,Lorena St,3rd St,Cesar E Chavez Av,2196.93485246,2012-05-20T00:00:00.000Z,,Bike Lane
+306,1923,1.5,Backbone,Route,Lorena St,Grande Vista Av,3rd St,8421.7027466,2005-01-01T00:00:00.000Z,,Bike Route
+307,1924,0.8,Backbone,Lane,Summerland Av,Western Av,Gaffey St,5128.85563314,2012-05-20T00:00:00.000Z,,Bike Lane
+308,1925,1.6, ,Lane,Vineland Av,Vanowen St,Sunland Bl,8575.48994048,2012-05-21T00:00:00.000Z,,Bike Lane
+309,1927,2.1,Backbone,Lane,Huntington Dr,Esmeralda St,Maycrest Av,15669.6604941,2012-06-30T00:00:00.000Z,,Bike Lane
+310,1928,0.22, ,Lane,Fair Park Av,Eagle Rock Bl,Maywood Av,1219.72165668,2011-03-15T00:00:00.000Z,,Bike Lane
+311,1929,1.7,Backbone,Lane,Winnetka Av,Devonshire St,Nordhoff St,9252.52830528,2012-06-10T00:00:00.000Z,,Bike Lane
+312,1931,0.6,Backbone,Lane,1st St,Grand Av,San Pedro St,4291.24590959,2012-06-30T00:00:00.000Z,,Bike Lane
+313,1933,0.5, ,Lane,Los Angeles St,1st St,Alameda St,2467.14668308,2012-06-10T00:00:00.000Z,,Bike Lane
+314,1934,0.5, ,Lane,2nd Ave,48th St,54th St,4957.7818362,2012-05-27T00:00:00.000Z,,Bike Lane
+315,1935,1.4,Backbone,Lane,Main St,9th St,Cesar E Chavez,10498.2582899,2012-06-30T00:00:00.000Z,,Bike Lane
+316,1937,1.01, ,Lane,Figueroa. St,El Segundo Bl,Rosecrans Av,5287.28609112,2012-06-03T00:00:00.000Z,,Bike Lane
+317,1939,0.3,Backbone,Lane,Paseo Del Mar,Western Av,White Point State Park Entrance,1225.61854493,2005-01-01T00:00:00.000Z,,Bike Lane
+318,1940,1.34,Backbone,Lane,Paseo Del Mar,Weymouth Av,Gaffey St,6524.41629652,2005-01-01T00:00:00.000Z,,Bike Lane
+319,1941,0.1,Backbone,Path,Century Bl,Clovis Av,Central Av,719.65545684,2005-01-01T00:00:00.000Z,,Bike Path
+320,1943,2.1,Backbone,Lane,Vermont Av,88th St,116th Pl (105 Fwy),10864.504091,2012-04-26T00:00:00.000Z,,Bike Lane
+321,1945,2.2,Backbone,Lane,Vermont Av,120th St,Redondo Beach Bl,11364.6348425,2012-06-03T00:00:00.000Z,,Bike Lane
+322,1966,0.4,Neighborhood,Lane,Waterfront Dr,S Campus Center Dr,Artisans Way,2099.35126,2005-01-01T00:00:00.000Z,,Bike Lane
+323,1967,1.4,Neighborhood,Lane,Bluff Creek Dr,Dawn Creek,Centinela Av,7298.36731276,2005-01-01T00:00:00.000Z,,Bike Lane
+324,1968,0.1,Neighborhood,Lane,Artisans Way,E Waterfront Dr,W Bluff Creek Dr,513.40191637,2005-01-01T00:00:00.000Z,,Bike Lane
+325,1969,4.1,Green,Path,Orange Line Ext Path,Canoga Busway Station,Lassen St,22084.0713847,2012-06-30T00:00:00.000Z,,Bike Path
+326,1971,0.7, ,Lane,Broad Av,Avalon Bl,Anaheim St,3942.05920803,2012-08-18T00:00:00.000Z,,Bike Lane
+327,1972,1.3,Neighborhood,Lane,Wilbur Av,Rinaldi St,Tampa Av,7114.75487551,2012-09-07T00:00:00.000Z,,Bike Lane
+328,1973,0.5, ,Lane,Zelzah Av,Lassen St,Devonshire St,2530.12772626,2012-09-09T00:00:00.000Z,,Bike Lane
+329,1974,0.9, ,Lane,Tampa Av,Devonshire St,Nashville St,9569.70468959,2012-09-12T00:00:00.000Z,,Bike Lane
+330,1975,0.8, ,Bicycle Friendly Street,Yucca St,Highland Av,Vine St,3807.87974277,2012-09-07T00:00:00.000Z,,Bicycle Friendly Street
+331,1977,0.5,Backbone,Lane,Woodman Av,Devonshire St,Chatsworth St,2685.38543403,2012-09-23T00:00:00.000Z,,Bike Lane
+332,1978,1.2, ,Lane,Olive St,Washington Bl,7th St,6383.24131259,2012-09-23T00:00:00.000Z,,Bike Lane
+333,1979,1.3, ,Lane,Grand Ave,Wilshire Bl,Washington Bl,6747.71259324,2012-09-23T00:00:00.000Z,,Bike Lane
+334,1980,0.8, ,Lane,Mason Av,Trentino Ln,Sesnon Bl,4388.52376968,2005-01-01T00:00:00.000Z,,Bike Lane
+335,1981,0.2, ,Route,Odin St,Cahuenga Bl,N Highland Av,979.27062746,2005-01-01T00:00:00.000Z,,Bike Route
+336,1982,0.1, ,Route,Av 45,N Figueroa St,Marmion Wy,539.81915763,2005-01-01T00:00:00.000Z,,Bike Route
+337,1984,0.3,Backbone,Lane,Venice Bl,Pacific Bl,Venice Wy,1680.42317777,2005-01-01T00:00:00.000Z,,Bike Lane
+338,1985,0.05,Backbone,Route,Westwood Bl,Santa Monica Bl,350' n/o Santa Monica Bl,475.99135238,2005-01-01T00:00:00.000Z,,Bike Route
+339,1986,0.5,Backbone,Lane,Woodman Av,Vanowen St,Sherman Way,2643.54205049,2012-10-14T00:00:00.000Z,,Bike Lane
+340,1987,0.5, ,Lane,Carson St,Western Av,Normandie Av,3563.22870393,2012-10-14T00:00:00.000Z,,Bike Lane
+341,1988,0.7, ,Lane,Motor Av,Venice Bl,National Bl,3758.20345699,2012-10-26T00:00:00.000Z,,Bike Lane
+342,1989,0.2, ,Lane,Colfax Av,Chiquita St,Ventura Bl,1194.95284705,2005-04-11T00:00:00.000Z,,Bike Lane
+343,1990,0.8,Neighborhood,Lane,Colfax Av,Riverside Dr,Orange Line Path,3909.23631505,2006-06-16T00:00:00.000Z,,Bike Lane
+344,1991,0.5, ,Lane,Glenoaks Bl,Brownell St,Paxon St,2523.77464394,2012-10-26T00:00:00.000Z,,Bike Lane
+345,1992,0.7, ,Lane,Short Ave,Alla Rd,Centinela Bl,5787.43413964,2012-11-01T00:00:00.000Z,,Bike Lane
+346,1993,0.3, ,Lane,Santa Monica Bl,Virgil Av,Manzanita St,1732.13899497,2012-11-11T00:00:00.000Z,,Bike Lane
+347,1994,1.4,Neighborhood,Lane,8th St,Boyle Av,Olympic Bl,7583.40079015,2012-11-11T00:00:00.000Z,,Bike Lane
+348,1996,0.1,Backbone,Lane,Reseda Bl,San Fernando Mission,Donmetz St,653.99290574,2010-05-19T00:00:00.000Z,,Bike Lane
+349,1997,1, ,Lane,92nd St,Van Ness Av,Normandie Av,5297.39729297,2012-12-02T00:00:00.000Z,,Bike Lane
+350,1998,1.5, ,Path,LA River Path,Winnetka Av,Vanalden Av,6811.01418362,2012-11-16T00:00:00.000Z,,Bike Path
+351,1999,0.4, ,Lane,Laconia Bl,Vermont Av,Denver Ave,2850.9477103,2012-12-05T00:00:00.000Z,,Bike Lane
+352,2000,0.8, ,Lane,Huntington Dr South,Tourmaline St,Alley W/O Minto Ct,4099.40991458,2012-12-09T00:00:00.000Z,,Bike Lane
+353,2001,0.5, ,Lane,Opp St,Fries Av,Banning Bl,2109.24157245,2012-12-12T00:00:00.000Z,,Bike Lane
+354,2002,0.3, ,Lane,Central Av,Century Bl,95th St,1668.09714148,2012-12-16T00:00:00.000Z,,Bike Lane
+355,2003,0.3, ,Lane,Degnan Bl,43rd St,MLK Bl,3587.3214595,2012-12-16T00:00:00.000Z,,Bike Lane
+356,2004,0.7, ,Lane,San Pascual Av,York Bl,Comet St,3613.16346332,2012-12-16T00:00:00.000Z,,Bike Lane
+357,2005,0.5, ,Lane,Ave 66,York Bl,Meridian St,2878.26038534,2012-12-16T00:00:00.000Z,,Bike Lane
+358,2006,0.2, ,Route,San Pascual Av,Comet St,San Ramon Dr,1105.26725058,2005-01-01T00:00:00.000Z,,Bike Route
+359,2007,1.55,Backbone,Lane,Silver Lake Bl,Reservoir St,Glendale Bl,8229.12174888,2005-01-01T00:00:00.000Z,,Bike Lane
+360,2008,0.5, ,Lane,White Oak Av,Victory Bl,Vanowen St,2640.78677556,2012-11-20T00:00:00.000Z,,Bike Lane
+361,2010,0.5, ,Lane,Burbank Bl,Hazeltine Av,Woodman Av,2641.2712504,2012-06-03T00:00:00.000Z,,Bike Lane
+362,2011,2.1, ,Lane,Burbank Bl,Ventura Canyon Av,Radford Av,11168.577808,2012-06-03T00:00:00.000Z,,Bike Lane
+363,2012,0.1, ,Sharrowed Route,Burbank Bl,Woodman Av,Ventura Canyon Av,660.21603991,2012-06-03T00:00:00.000Z,,Sharrowed Bike Route
+364,2013,0.1, ,Route,Parkman Av,Sunset Bl,Silver Lake Bl,714.6411972,2005-01-01T00:00:00.000Z,,Bike Route
+365,2014,0.5, ,Lane,Neptune Ave,C St,Anaheim St,2644.67699,2012-12-21T00:00:00.000Z,,Bike Lane
+366,2015,0.5, ,Lane,Wilmington Bl,C St,Anaheim St,2645.19511979,2012-12-20T00:00:00.000Z,,Bike Lane
+367,2016,0.5, ,Lane,Ave 28,N Figueroa St,Pepper Av,2542.5359014,2012-12-23T00:00:00.000Z,,Bike Lane
+368,2017,0.5, ,Lane,Forest Av,Cesar Chavez,Wabash Av,2619.22052789,2012-12-22T00:00:00.000Z,,Bike Lane
+369,2018,0.9, ,Lane,Foothill Bl,Haines Canyon Av,Lowell Av,4647.32989854,2013-01-03T00:00:00.000Z,,Bike Lane
+370,2019,2.1, ,Lane,Foothill Bl,Sunland Bl,Hillhaven Av,10915.7205431,2013-01-03T00:00:00.000Z,,Bike Lane
+371,2020,0.8, ,Lane,Ventura Bl,Woodlake Av,Sale Av,4017.15873834,2012-12-27T00:00:00.000Z,,Bike Lane
+372,2021,1.5, ,Lane,Van Nuys Bl,San Fernando Rd,Foothill Bl,8154.45281922,2012-12-28T00:00:00.000Z,,Bike Lane
+373,2022,0.3, ,Lane,San Vicente Bl,La Brea Av,Pico Bl,3210.99428,2012-12-20T00:00:00.000Z,,Bike Lane
+374,2023,0.3, ,Sharrowed Route,New Hampshire Av,4th St,6th St,1369.99266869,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+375,2027,1.51,Neighborhood,Sharrowed Route,Astoria St,San Fernando Rd,Foothill Bl,7988.96762972,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+376,2028,0.09,Backbone,Route,Shepard St,Gaffey St,S Carolina Pl,495.16471891,2005-01-01T00:00:00.000Z,,Bike Route
+377,2029,0.28,Backbone,Lane,Shepard St,S Carolina Pl,Pacific Av,825.12667407,2005-01-01T00:00:00.000Z,,Bike Lane
+378,2030,1.3,Backbone,Lane,Brand Bl,Sepulveda Bl,JEO Acala St (City Limit),14063.110263,2013-01-18T00:00:00.000Z,,Bike Lane
+379,2031,0.7, ,Lane,Tujunga Av,Ventura Bl,Moorpark St,3812.96038305,2013-01-18T00:00:00.000Z,,Bike Lane
+380,2032,0.5,Backbone,Lane,Sherman Wy,Topanga Canyon Bl,Canoga Av,2505.9748965,2013-01-18T00:00:00.000Z,,Bike Lane
+381,2033,0.08,Backbone,Route,Sherman Wy,Topanga Canyon Bl,250 ft E/O Glade Av,435.43864036,2005-01-01T00:00:00.000Z,,Bike Route
+382,2034,0.8,Backbone,Lane,Burton Way,Doheny Dr (Robertson EB),La Cienega Bl,6497.2597809,2013-01-27T00:00:00.000Z,,Bike Lane
+383,2035,0.4,Backbone,Lane,Woodman Av,Ventura Bl,Valleyheart Dr,2454.07716835,2013-01-18T00:00:00.000Z,,Bike Lane
+384,2036,1.4,Backbone,Lane,Mission Rd,Cesar E Chavez Av,N Main St,7384.94075182,2013-01-30T00:00:00.000Z,,Bike Lane
+385,2037,0.7, ,Lane,Fries Av,A St,Anaheim St,3701.34588634,2013-02-03T00:00:00.000Z,,Bike Lane
+386,2038,0.5, ,Lane,28th St,Griffith Av,Hooper Av,2415.2400672,2013-02-03T00:00:00.000Z,,Bike Lane
+387,2039,0.9, ,Lane,Burbank Bl,Radford Av,Elmer Av,4792.29229399,2013-02-03T00:00:00.000Z,,Bike Lane
+388,2040,0.4,Neighborhood,Lane,Loyola Bl,80th St,Manchester Av,2236.2113074,2013-02-03T00:00:00.000Z,,Bike Lane
+389,2041,0.5,Neighborhood,Lane,Gateway Bl,Pico Bl,Granville Av,7032.66957086,2013-02-03T00:00:00.000Z,,Bike Lane
+390,2042,0.8, ,Lane,4th Av,23rd St,Pico Bl,3887.9755473,2013-02-10T00:00:00.000Z,,Bike Lane
+391,2043,0.5, ,Lane,111th St,Aviation Bl,La Cienega Bl,2554.14586886,2013-02-10T00:00:00.000Z,,Bike Lane
+392,2045,1.1, ,Lane,Glenoaks Bl,Paxton St,Terra Bella St,6711.55196365,2013-02-13T00:00:00.000Z,,Bike Lane
+393,2046,0.6, ,Lane,Darwin Av,Daly St,Thomas St,3151.1057948,2013-02-13T00:00:00.000Z,,Bike Lane
+394,2047,0.6, ,Lane,Via Marisol,Lomitas Dr,Ave 57,3390.87414229,2013-02-13T00:00:00.000Z,,Bike Lane
+395,2048,0.6, ,Lane,108th St,Avalon Bl,Central Av,3337.80737557,2013-02-23T00:00:00.000Z,,Bike Lane
+396,2049,0.6, ,Lane,Figueroa St,Gardena Bl,Walnut St,3030.51878193,2013-02-23T00:00:00.000Z,,Bike Lane
+397,2050,0.6, ,Lane,Alla Rd,Maxella Av,Marina Expwy,3074.28123606,2013-02-23T00:00:00.000Z,,Bike Lane
+398,2051,0.5, ,Lane,Jefferson Bl,Main St,San Pedro St,2540.691585,2013-03-03T00:00:00.000Z,,Bike Lane
+399,2052,0.5, ,Lane,Moorpark St,Coldwater Canyon Ave,Whitsett Ave,2593.34622057,2013-03-03T00:00:00.000Z,,Bike Lane
+400,2053,0.9, ,Lane,Vermont Av,79th St,Gage Ave,10156.8093689,2013-03-05T00:00:00.000Z,,Bike Lane
+401,2054,0.5, ,Lane,Rowena Av,Hyperion Av,Glendale Bl,2566.51018185,2013-03-11T00:00:00.000Z,,Bike Lane
+402,2055,0.5, ,Lane,Hayvenhurst Av,300' N/O Sherman Wy,Saticoy St,2451.4917745,2013-03-12T00:00:00.000Z,,Bike Lane
+403,2056,0.5, ,Lane,Gaffey St,Channel St,Summerland Av,2411.68106164,2013-03-13T00:00:00.000Z,,Bike Lane
+404,2057,0.6, ,Lane,Parthenia St,Pacoima Wash (JWO Kester Av),Van Nuys Bl,6010.95815041,2013-03-19T00:00:00.000Z,,Bike Lane
+405,2058,0.4, ,Lane,Braddock St,Culver Bl,Centinela Av,2324.45587156,2013-03-18T00:00:00.000Z,,Bike Lane
+406,2059,0.2, ,Sharrowed Route,Sepulveda Bl,225' N/O Greenlawn Av,Ballona Creek Bike Path,935.23631774,2013-02-27T00:00:00.000Z,,Sharrowed Bike Route
+407,2062,0.3, ,Sharrowed Route,Jefferson Bl,La Cienega Bl,National Bl,1522.94165942,2013-02-27T00:00:00.000Z,,Sharrowed Bike Route
+408,2063,0.6, ,Sharrowed Route,Abbot Kinney Bl,Venice Bl,Washington Bl,3452.6968962,2013-03-05T00:00:00.000Z,,Sharrowed Bike Route
+409,2064,0.4, ,Sharrowed Route,Ocean Av,Washington Bl,S Venice Bl,2094.29215268,2013-03-07T00:00:00.000Z,,Sharrowed Bike Route
+410,2065,0.6, ,Sharrowed Route,Mildred Av,Ocean Av,Washington Bl,3050.17174756,2013-03-11T00:00:00.000Z,,Sharrowed Bike Route
+411,2066,0.2, ,Sharrowed Route,Pacific Ave,Windward Av,N Venice Bl,1165.72307444,2013-03-15T00:00:00.000Z,,Sharrowed Bike Route
+412,2067,0.1, ,Sharrowed Route,Windward Av,Pacific Av,Speedway,364.81856508,2013-02-24T00:00:00.000Z,,Sharrowed Bike Route
+413,2068,0.1, ,Sharrowed Route,S Venice Bl,Ocean Front Walk,Pacific Av,470.79886764,2013-02-28T00:00:00.000Z,,Sharrowed Bike Route
+414,2069,0.1, ,Sharrowed Route,Washington Bl,Ocean Front Walk,Pacific Av,440.29539483,2013-02-28T00:00:00.000Z,,Sharrowed Bike Route
+415,2070,0.1, ,Sharrowed Route,Wellworth Av,Midvale Av,Westwood Bl,556.01118983,2013-03-01T00:00:00.000Z,,Sharrowed Bike Route
+416,2071,0.2, ,Sharrowed Route,Broxton Ave,Le Conte Av,Weyburn Av,410.49274348,2013-03-01T00:00:00.000Z,,Sharrowed Bike Route
+417,2072,0.4, ,Sharrowed Route,Rose Av,Ocean Front Walk,4th Av,2005.58981365,2013-03-31T00:00:00.000Z,,Sharrowed Bike Route
+418,2073,0.6, ,Sharrowed Route,7th Av,Rose Av,California Av,2743.43765844,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+419,2074,0.3, ,Sharrowed Route,California Av,Oakwood Av,Abbot Kinney Bl,1481.05718348,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+420,2075,0.4, ,Sharrowed Route,Oakwood Av,California Av,Venice Bl,2067.3005922,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+421,2078,0.3, ,Sharrowed Route,Gayley Av,Weyburn Av,Wilshire Bl,1548.09605818,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+422,2079,0.3, ,Sharrowed Route,Midvale Av,Wilshire Bl,Wellworth Av,729.81246233,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+423,2080,0.1, ,Sharrowed Route,Kinross Av,Gayley Av,Glendon Av,679.76807554,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+424,2081,0.22, ,Sharrowed Route,Weyburn Av,Gayley Av,Glendon Av,1272.33151313,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+425,2082,1, ,Sharrowed Route,Ohio Av,S Sepulveda Bl,Westholme Av,5259.04105424,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+426,2083,0.5, ,Sharrowed Route,Hoover St,El Segundo Bl,120th St,2553.48118878,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+427,2084,0.3, ,Sharrowed Route,Ocean Av,Adelaide Dr,Entrada Dr,1414.86254697,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+428,2085,0.5, ,Sharrowed Route,Lucerne Bl,4th St,8th St,2522.98396466,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+429,2087,2.7, ,Sharrowed Route,Franklin Av,St George St,Argyle Av,14684.3488617,2013-03-29T00:00:00.000Z,,Sharrowed Bike Route
+430,2088,0.5, ,Sharrowed Route,St George St,Rowena Av,Franklin Av,2550.75375766,2013-03-27T00:00:00.000Z,,Sharrowed Bike Route
+431,2089,0.1, ,Sharrowed Route,Rowena Av,Hyperion Av,St George St,664.62477246,2013-03-27T00:00:00.000Z,,Sharrowed Bike Route
+432,2092,0.1, ,Sharrowed Route,Yucca St,Argyle Av,Vine St,227.01048809,2013-03-21T00:00:00.000Z,,Sharrowed Bike Route
+433,2093,0.9, ,Sharrowed Route,Selma Av,Gower St,Highland Av,4957.89844088,2013-03-21T00:00:00.000Z,,Sharrowed Bike Route
+434,2094,1.3, ,Sharrowed Route,Wilcox Av,Cahuenga Bl,Willoughby Av,6960.43797832,2013-03-21T00:00:00.000Z,,Sharrowed Bike Route
+435,2095,1.7, ,Sharrowed Route,Willoughby Av,Gower St,Vista St,9076.42529742,2013-04-21T00:00:00.000Z,,Sharrowed Bike Route
+436,2096,1, ,Sharrowed Route,Orange Dr,Willoughby Av,Hollywood Bl,5261.58606276,2013-03-21T00:00:00.000Z,,Sharrowed Bike Route
+437,2098,0.1, ,Sharrowed Route,Willow Brook Av,Edgemont,N Heliotrope Dr,330.01153054,2013-04-21T00:00:00.000Z,,Sharrowed Bike Route
+438,2099,0.4, ,Sharrowed Route,Argyle Ave,Franklin Av,Selma Av,1964.39504049,2013-03-21T00:00:00.000Z,,Sharrowed Bike Route
+439,3000,0.3, ,Sharrowed Route,Hyperion Av,Fountain Av,Sunset Bl,1670.53741577,2013-04-21T00:00:00.000Z,,Sharrowed Bike Route
+440,3002,1.2, ,Sharrowed Route,1st St,San Pedro St,Boyle Av,6578.41705011,2013-04-01T00:00:00.000Z,,Sharrowed Bike Route
+441,3003,0.9, ,Sharrowed Route,2nd St,Spring St,Santa Fe Av,4494.72004907,2013-03-29T00:00:00.000Z,,Sharrowed Bike Route
+442,3004,1.8, ,Lane,Broadway,92nd St,117th St,16567.4235905,2013-03-24T00:00:00.000Z,,Bike Lane
+443,3005,0.4, ,Lane,Winnetka Av,Vanowen St,Gault St,1980.31217421,2013-03-24T00:00:00.000Z,,Bike Lane
+444,3006,0.5, ,Lane,Cypress Av,Arroyo Seco Av,Pepper Av,2505.35121591,2013-03-24T00:00:00.000Z,,Bike Lane
+445,3007,0.5, ,Lane,Crescent Heights Bl,Guthrie Av,Airdrome St,2461.36408421,2013-03-24T00:00:00.000Z,,Bike Lane
+446,3008,2.3, ,Lane,Woodman Av,Roscoe Bl,Lassen St,12075.31788,2013-04-01T00:00:00.000Z,,Bike Lane
+447,3009,0.8, ,Lane,San Pedro St,Vernon Av,Jefferson Bl,4521.76412735,2013-04-04T00:00:00.000Z,,Bike Lane
+448,3010,0.9, ,Lane,Griffin Av,Altura St,N Mission Rd,4642.36701166,2013-04-04T00:00:00.000Z,,Bike Lane
+449,3011,3.9, ,Route,Broadway,Broadway Pl,92nd St,20678.8998964,2005-01-01T00:00:00.000Z,,Bike Route
+450,3012,1.4, ,Route,Woodman Av,Roscoe Bl,Sherman Way,12181.46527,2005-01-01T00:00:00.000Z,,Bike Route
+451,3013,0.2, ,Lane,Zonal Av,N Mission Rd,State St,1060.36286586,2013-04-04T00:00:00.000Z,,Bike Lane
+452,3015,1.7, ,Lane,Lankershim Bl,Saticoy St,San Fernando Rd,9167.22139299,2013-04-07T00:00:00.000Z,,Bike Lane
+453,3016,0.5, ,Lane,Colfax Av,Chandler Bl,Hatteras Av,2586.68737409,2013-04-07T00:00:00.000Z,,Bike Lane
+454,3017,1.5, ,Lane,Nordoff St,Orion Av,Slymar Av,7881.86061342,2013-04-07T00:00:00.000Z,,Bike Lane
+455,3018,0.2, ,Sharrowed Route,Nordoff St,Slymar Av,Costello Av,1198.47841265,2013-04-07T00:00:00.000Z,,Sharrowed Bike Route
+456,3019,0.1, ,Lane,Nordoff St,Costello Av,Woodman Av,452.25731355,2013-04-07T00:00:00.000Z,,Bike Lane
+457,3020,0.1, ,Sharrowed Route,Lankershim Bl,Victory Bl,Hamlin St,753.98969194,2013-03-13T00:00:00.000Z,,Sharrowed Bike Route
+458,3021,0.8, ,Lane,Lankershim Bl,Hatteras St,Victory Bl,4433.08503545,2013-03-13T00:00:00.000Z,,Bike Lane
+459,3022,1.4, ,Lane,Lankershim Bl,Hamlin St,Saticoy St,7174.60957133,2013-03-13T00:00:00.000Z,,Bike Lane
+460,3023,1.8, ,Lane,Van Nuys Bl,Parthenia St,Beachy Av,9381.45689426,2013-04-07T00:00:00.000Z,,Bike Lane
+461,3024,0.4, ,Sharrowed Route,Pacific Ave,S Venice Bl,Washington Bl,2112.21759696,2013-03-15T00:00:00.000Z,,Sharrowed Bike Route
+462,3025,0.2, ,Lane,Denver Av,Laconia Bl,Athens Bl,1004.6411958,2012-12-05T00:00:00.000Z,,Bike Lane
+463,3026,0.6, ,Lane,103rd St,Avalon Bl,Central Av,3348.08225664,2013-04-18T00:00:00.000Z,,Bike Lane
+464,3027,1, ,Lane,54th St,8th Av,Western Av,5111.1645918,2013-04-18T00:00:00.000Z,,Bike Lane
+465,3028,0.4, ,Lane,1st St,Grand Av,Beaudry Av,2076.09794562,2013-04-18T00:00:00.000Z,,Bike Lane
+466,3029,0.5, ,Lane,Colden Av,Avalon Bl,Clovis Av,2642.41041336,2013-04-18T00:00:00.000Z,,Bike Lane
+467,3030,1.5,Neighborhood,Sharrowed Route,Colden Av,Vermont Av,Avalon Bl,8027.22876728,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+468,3031,0.4, ,Lane,22nd St,Via Cabrillo Marina,Miner St,2156.57050283,2013-02-16T00:00:00.000Z,,Bike Lane
+469,3032,0.6, ,Sharrowed Route,Fountain Av,La Brea Av,Seward Av,3275.8488808,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+470,3033,0.7, ,Sharrowed Route,Fountain Av,Wilcox Av,Bronson Av,3948.91059718,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+471,3034,0.3, ,Sharrowed Route,Fountain Av,Van Ness Av,St Andrews Pl,1272.05214464,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+472,3035,1.4, ,Lane,Adams Bl,Main St,Compton Av,7441.10155059,2013-04-21T00:00:00.000Z,,Bike Lane
+473,3036,0.5, ,Lane,92nd St,Main St,Towne Av/Avalon Bl,2649.89230095,2013-04-21T00:00:00.000Z,,Bike Lane
+474,3037,0.08,Neighborhood,Route,4th St,Hoover St,Commonwealth Av,409.61294174,2005-01-01T00:00:00.000Z,,Bike Route
+475,3038,0.2, ,Lane,Wilshire Bl,Beverly Glen Bl,Comstock Av,1134.61020314,2013-04-28T00:00:00.000Z,,Bike Lane
+476,3039,0.5, ,Lane,108th St,Vermont Av,Figueroa St,2745.28728121,2013-04-28T00:00:00.000Z,,Bike Lane
+477,3040,1.2, ,Lane,Figueroa St,Wilshire Bl,Cesar E Chavez/Sunset Bl,4878.4423651,2013-05-01T00:00:00.000Z,,Bike Lane
+478,3041,1, ,Lane,Capitol Dr,Western Av,Gaffey St,5550.81540911,2013-05-05T00:00:00.000Z,,Bike Lane
+479,3042,1.1, ,Lane,Westmont Dr,Western Av,Gaffey St,5889.74292347,2013-05-05T00:00:00.000Z,,Bike Lane
+480,3043,1.7, ,Lane,Grand Ave,Oliver St,24th St,8911.87215336,2013-05-05T00:00:00.000Z,,Bike Lane
+481,3044,0.1, ,Lane,Bella Porte Av,Lomita Bl,252nd St,745.27213931,2013-05-07T00:00:00.000Z,,Bike Lane
+482,3045,0.1, ,Sharrowed Route,Bella Porte Av,252nd St,254th St,720.2563181,2013-05-07T00:00:00.000Z,,Sharrowed Bike Route
+483,3046,0.6, ,Lane,Bella Porte Av,254th St,260th St,2523.68540131,2013-05-07T00:00:00.000Z,,Bike Lane
+484,3047,0.3, ,Lane,Echandia St,Pleasant Av,Bridge St,1698.14802566,2013-05-07T00:00:00.000Z,,Bike Lane
+485,3048,0.5, ,Lane,Century Bl,Broadway,San Pedro St,2679.23267305,2013-05-07T00:00:00.000Z,,Bike Lane
+486,3049,1.8, ,Lane,Corbin Av,Rinaldi St,Lassen St,9439.27222605,2013-05-07T00:00:00.000Z,,Bike Lane
+487,3050,0.8, ,Lane,Wilbur Av,Chatsworth St,Rinaldi St,4188.46071578,2013-05-07T00:00:00.000Z,,Bike Lane
+488,3051,2, ,Lane,Monterey Rd,Lomitas Dr,City Limits (South Pasadena),10229.9664333,2013-05-07T00:00:00.000Z,,Bike Lane
+489,3052,1, ,Lane,83rd St,Western Av,Vermont Av,5324.06720225,2013-05-03T00:00:00.000Z,,Bike Lane
+490,3053,0.5, ,Lane,Scott Av,Garibaldi Dr,Portia St,5192.51767909,2013-05-12T00:00:00.000Z,,Bike Lane
+491,3054,0.6, ,Lane,19th St,Walker Av,Gaffey St,3352.1534446,2013-05-12T00:00:00.000Z,,Bike Lane
+492,3055,0.5, ,Lane,Lomita Bl,Western Av,Frampton Av,2539.03677748,2013-05-12T00:00:00.000Z,,Bike Lane
+493,3056,0.3, ,Sharrowed Route,Monterey Rd,Lomitas Dr,Huntington Dr South,1299.71576903,2013-05-07T00:00:00.000Z,,Sharrowed Bike Route
+494,3057,0.7, ,Lane,Mecca Av,Linnet St,Tarzana Dr,1756.63825206,2006-07-13T00:00:00.000Z,,Bike Lane
+495,3058,0.3, ,Lane,Mecca Av,Tarzana Dr,Avenida Oriente,604.81419119,2006-07-13T00:00:00.000Z,,Bike Lane
+496,3059,0.1, ,Lane,Reseda Bl,Golf Course Rd,Winford Dr (south jog),1882.66072355,2005-01-01T00:00:00.000Z,,Bike Lane
+497,3060,0.5, ,Lane,Clovis Av,92nd St,Century Bl,2638.85675596,2013-05-20T00:00:00.000Z,,Bike Lane
+498,3061,0.25, ,Lane,Bronson Av,La Mirada,Santa Monica Bl,1092.71478073,2013-05-20T00:00:00.000Z,,Bike Lane
+499,3062,0.6, ,Lane,96th St,Sepulveda Bl,Airport Bl,3135.10507714,2013-05-20T00:00:00.000Z,,Bike Lane
+500,3063,1.1, ,Lane,Avalon Bl,L St,Harry Bridges Bl,5626.40907506,2013-05-20T00:00:00.000Z,,Bike Lane
+501,3064,0.05, ,Lane,Bronson Ave,Fountain Ave,La Mirada Ave,237.8986374,2013-05-20T00:00:00.000Z,,Bike Lane
+502,3065,0.8, ,Lane,Broad Av,Anaheim St,Pacific Coast Hwy,4088.17515212,2013-05-29T00:00:00.000Z,,Bike Lane
+503,3066,0.2, ,Lane,Market St,Main St,Cabrillo Av,1097.0611754,2013-05-29T00:00:00.000Z,,Bike Lane
+504,3067,0.5, ,Lane,Washington Bl,Mildred Av,Lincoln  Bl,2660.37856141,2013-06-02T00:00:00.000Z,,Bike Lane
+505,3068,3.1, ,Lane,San Pedro St,115th St,Florence Av,16235.5866284,2013-06-09T00:00:00.000Z,,Bike Lane
+506,3069,0.4, ,Lane,Athens Bl,Ainsworth St,Figueroa St,5225.7325004,2013-06-10T00:00:00.000Z,,Bike Lane
+507,3070,0.4, ,Lane,11th St,Broadway,Wall St,1853.13602231,2013-06-10T00:00:00.000Z,,Bike Lane
+508,3071,0.3, ,Lane,Griffin Av,Altura St,JNO Ave 28,1707.8064701,2013-06-10T00:00:00.000Z,,Bike Lane
+509,3072,1, ,Sharrowed Route,Griffin Av,E Av 28,E Av 43,5635.26890049,2005-01-01T00:00:00.000Z,,Sharrowed Bike Route
+510,3073,0.5, ,Lane,3rd St,San Pedro St,Garey St,2387.86364659,2013-06-10T00:00:00.000Z,,Bike Lane
+511,3074,0.1, ,Lane,3rd St,Garey St,Santa Fe Av,779.07991505,2013-06-10T00:00:00.000Z,,Bike Lane
+512,3075,1, ,Lane,Clybourn Av,Sherman Way,San Fernando Rd,5294.03364734,2013-06-10T00:00:00.000Z,,Bike Lane
+513,3076,0.4, ,Lane,Hauser Bl,6th St,3rd St,2135.16176354,2013-06-10T00:00:00.000Z,,Bike Lane
+514,3077,1.4, ,Lane,E St,Wilmington Bl,Alameda St,11063.0221953,2013-06-17T00:00:00.000Z,,Bike Lane
+515,3078,0.7, ,Lane,Foothill Bl,Polk St,Hubbard St,4329.30529201,2013-06-17T00:00:00.000Z,,Bike Lane
+516,3079,1, ,Lane,Dumetz Rd,Topanga Canyon Bl,Serrania Av,5432.94136795,2013-06-17T00:00:00.000Z,,Bike Lane
+517,3080,1.4, ,Lane,25th St,"Catalina Vista (E/B), 500' W/O Mermaid Way (W/B)",Patton Av,7115.80983353,2013-06-17T00:00:00.000Z,,Bike Lane
+518,3081,1.5, ,Lane,White Oak Av,Devonshire St,Rinaldi St,7919.98200288,2013-06-17T00:00:00.000Z,,Bike Lane
+519,3082,1.4, ,Lane,Lomita Bl,Figueroa St,Wilmington Av,2344.55661861,2013-06-17T00:00:00.000Z,,Bike Lane
+520,3083,0.7, ,Lane,Figueroa St,Walnut Av,190th St,3922.53156218,2013-06-17T00:00:00.000Z,,Bike Lane
+521,3084,0.5, ,Lane,Glendale Bl,Glenhurst Av,Glendale City Limit (N/O) Seneca Av,5097.56931734,2013-06-17T00:00:00.000Z,,Bike Lane
+522,3085,0.7, ,Lane,Eagle Rock Bl,Westdale Av,Colorado Bl,7222.32787923,2013-06-17T00:00:00.000Z,,Bike Lane
+523,3086,0.8, ,Lane,Figueroa St,Redondo Beach Bl,Gardena Bl,3962.62731413,2013-06-17T00:00:00.000Z,,Bike Lane
+524,3087,0.9, ,Lane,Vermont Av,190th St,Cassidy St,4564.54054443,2013-06-17T00:00:00.000Z,,Bike Lane
+525,3088,0.8, ,Lane,Stadium Wy,Boylston St,Lookout Dr,4008.98980153,2013-06-24T00:00:00.000Z,,Bike Lane
+526,3089,0.3, ,Lane,Montana St,Alvarado St,Echo Park Ave,1817.01792882,2013-06-24T00:00:00.000Z,,Bike Lane
+527,3090,0.5, ,Lane,San Pedro Pl,Main St,San Pedro St,2718.10843416,2013-06-30T00:00:00.000Z,,Bike Lane
+528,3091,0.8, ,Lane,Mission Rd,North Main St,North Broadway,4536.85312501,2013-06-30T00:00:00.000Z,,Bike Lane
+529,3093,1.3,Backbone,Sharrowed Route,Vine St,Melrose Av,Hollywood Bl,6599.4947863,2011-10-02T00:00:00.000Z,,Sharrowed Bike Route
+530,3094,3.32,Neighborhood,Sharrowed Route,4th St,La Brea Av,Commonwealth Av,17839.9407429,2010-07-29T00:00:00.000Z,,Sharrowed Bike Route
+531,3095,0.4,Neighborhood,Sharrowed Route,Glendon Av,Weyburn Av,Wellworth Av,2232.32166349,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+532,3096,0.5,Neighborhood,Sharrowed Route,Ohio Av,Westgate Av,Purdue Av(E/B)/Sepulveda Bl (W/B),4783.93866325,2013-04-04T00:00:00.000Z,,Sharrowed Bike Route
+533,3098,0.3,Neighborhood,Sharrowed Route,Tiverton Av,Lindbrook Dr,Le Conte Av (N/B),1394.32044948,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+534,3099,0.1,Neighborhood,Sharrowed Route,Wellworth Av,Westwood Bl,Glendon Av,314.31856139,2013-03-01T00:00:00.000Z,,Sharrowed Bike Route
+535,3101,0.08,Neighborhood,Sharrowed Route,Weyburn Av,Tiverton Av,Glendon Av (w/b),396.13415029,2013-04-26T00:00:00.000Z,,Sharrowed Bike Route
+536,3135,0.1, ,Sharrowed Route,Lucile Bl,Sunset Bl,Griffith Park Bl,494.606761,2013-03-31T00:00:00.000Z,,Sharrowed Bike Route
+537,3136,0.1, ,Sharrowed Route,Harcourt Av,Jefferson Bl,Exposition Bl,356.56376382,2013-02-27T00:00:00.000Z,,Sharrowed Bike Route
+538,3166,0.1, ,Sharrowed Route,Fountain Av,Seward Av,Wilcox Av,671.85296932,2013-04-01T00:00:00.000Z,,Sharrowed Bike Route
+539,3167,0.1, ,Sharrowed Route,Fountain Av,Western Av,St Andrews Pl,712.10992776,2013-04-01T00:00:00.000Z,,Sharrowed Bike Route
+540,3168,0.7, ,Lane,Woodman Av,Riverside Dr,Magnolia Bl (S/B)/Chandler Bl (N/B),2640.57264802,2013-07-26T00:00:00.000Z,,Bike Lane
+541,3169,0.3, ,Lane,Compton Av,104th St,Century Bl,1539.96305564,2013-07-01T00:00:00.000Z,,Bike Lane
+542,3170,1, ,Lane,Cabrillo Av,Sepulveda St,12th St,5129.90796111,2013-07-29T00:00:00.000Z,,Bike Lane
+543,3171,0.2, ,Lane,Cabrillo Av,14th St,18th St,1320.49728503,2013-07-29T00:00:00.000Z,,Bike Lane
+544,3172,0.2, ,Lane,Sunset Bl,Douglas St,Elysian Park Av,691.64769936,2013-08-25T00:00:00.000Z,,Bike Lane
+545,3173,0.3, ,Lane,Windward Av,Pacific Av,Cabrillo Av,1701.88685916,2013-08-25T00:00:00.000Z,,Bike Lane
+546,3174,0.05, ,Lane,Main St,Windward Circle,Venice Way,307.33172735,2013-08-25T00:00:00.000Z,,Bike Lane
+547,3175,0.35, ,Lane,Grand Bl,Windward Circle,Venice Bl,2103.03616424,2013-08-25T00:00:00.000Z,,Bike Lane
+548,3176,0.3, ,Lane,Broad Av,Q St,Lomita Bl,1373.51418415,2013-08-25T00:00:00.000Z,,Bike Lane
+549,3177,0.6, ,Lane,Island Av,Harry Bridges Bl,Anaheim St,3173.44264025,2013-08-25T00:00:00.000Z,,Bike Lane
+550,3178,0.6, ,Lane,Victory Bl,Country Oak Rd,Valley Circle Bl,3374.08819351,2013-08-25T00:00:00.000Z,,Bike Lane
+551,3179,0.6, ,Lane,120th St,Avalon Av,Central Av,3297.16049467,2013-08-25T00:00:00.000Z,,Bike Lane
+552,3180,1, ,Lane,120th St,Main St,Vermont Av,5411.96867294,2013-08-25T00:00:00.000Z,,Bike Lane
+553,3181,0.1, ,Lane,Sawtelle Bl,Nina Pl,Culver City Limit,1002.02250785,2013-09-09T00:00:00.000Z,,Bike Lane
+554,3182,0.2, ,Lane,4th Av,Adams Bl,DE N/O 25th St,1151.86121378,2013-09-23T00:00:00.000Z,,Bike Lane
+555,3183,0.3, ,Lane,White Oak Ave,Rhoda St,Oxnard St,1777.49078322,2013-09-23T00:00:00.000Z,,Bike Lane
+556,3184,0.7, ,Lane,Lagoon Av,DE S/O D St,Opp St,3515.74788886,2013-09-23T00:00:00.000Z,,Bike Lane
+557,3185,0.5, ,Lane,Eubank Av,Lomita Bl,Pacific Coast Hwy,2895.75041272,2013-09-23T00:00:00.000Z,,Bike Lane
+558,3187,0.3, ,Lane,W Broadway,Eagledale Av,Colorado Bl,1478.30582131,2013-10-04T00:00:00.000Z,,Bike Lane
+559,3188,2.4, ,Lane,Colorado Bl,Eagledale Av,N Figueroa St,17462.0321225,2013-10-04T00:00:00.000Z,,Bike Lane
+560,3189,0.5, ,Lane,Roxbury Dr,Cashio St,Beverly Hills City Limit,2425.4871313,2013-10-18T00:00:00.000Z,,Bike Lane
+561,3190,0.7, ,Lane,Coliseum St,Sycamore Av,Martin Luther King Jr Bl,3604.37553769,2013-10-18T00:00:00.000Z,,Bike Lane
+562,3191,0.4, ,Lane,14th St (San Pedro),Pacific Av,Beacon St,2271.84495292,2013-10-18T00:00:00.000Z,,Bike Lane
+563,3192,0.3, ,Lane,Poplar Bl,Huntington Dr,Winchester Av,1521.45632913,2013-10-18T00:00:00.000Z,,Bike Lane
+564,3193,0.6, ,Lane,White Oak Av,Ventura Bl,Ventura Fwy E/B ramps,3047.81326968,2014-03-17T00:00:00.000Z,,Bike Lane
+565,3194,0.5, ,Lane,Bradley Av,Polk St,Bledsoe St,2889.34391067,2013-10-18T00:00:00.000Z,,Bike Lane
+566,3195,0.5, ,Lane,Fallbrook Av,Roscoe Bl,Hidden Lake,2665.52406,2009-02-10T00:00:00.000Z,,Bike Lane
+568,3197,0.9, ,Lane,Marine Ave,A St,Opp St,4763.97906195,2014-02-18T00:00:00.000Z,,Bike Lane
+569,3198,0.4, ,Sharrowed Route,Marine Ave,Opp St,M St,2165.59950077,2014-02-18T00:00:00.000Z,,Sharrowed Bike Route
+570,3199,0.7, ,Lane,Marine Ave,M St,Lomita Bl,3769.02502287,2014-02-18T00:00:00.000Z,,Bike Lane
+571,3200,0.5, ,Lane,Clybourn Ave,Victory Bl,Vanowen St,2650.49160836,2013-12-31T00:00:00.000Z,,Bike Lane
+572,3201,1, ,Lane,2nd St,Glendale Bl,Spring St,5529.17510302,2013-11-11T00:00:00.000Z,,Bike Lane
+573,3202,0.6, ,Lane,7th St,Figueroa St,Main St,3251.74911928,2013-10-31T00:00:00.000Z,,Bike Lane
+574,3203,0.9, ,Lane,Riverside Dr,Agnes Ave,Farmdale Ave,4294.21564534,2013-12-26T00:00:00.000Z,,Bike Lane
+575,3204,0.7, ,Lane,F St,Wilmington Bl,Broad Ave,3963.25665039,2014-01-15T00:00:00.000Z,,Bike Lane
+576,3205,0.5, ,Lane,Virgil Ave,Santa Monica Bl,Melrose Ave,2655.39036852,2014-01-17T00:00:00.000Z,,Bike Lane
+577,3206,0.7, ,Lane,Grand Ave,30th St,Washington Bl,3867.59289244,2013-12-15T00:00:00.000Z,,Bike Lane
+578,3207,0.2, ,Lane,Lassen St,Lindley Ave,Zelzah Ave,1246.81767022,2014-01-15T00:00:00.000Z,,Bike Lane
+579,3209,0.4, ,Lane,Lindley Ave (S/B Only),Lassen St,Halsted St,1981.50669386,2014-04-28T00:00:00.000Z,,Bike Lane
+580,3210,2.9, ,Lane,Foothill Bl,Balboa Bl,500' W/O Bledsoe St,12600.4980764,2014-06-18T00:00:00.000Z,,Bike Lane
+581,3211,0.7, ,Lane,York Bl,Figueroa St,Arroyo Verde Rd (S Pasadena City Limit),2716.1024572,2014-04-13T00:00:00.000Z,,Bike Lane
+582,3212,0.6, ,Lane,Century Bl,Success Ave,Wilmington Ave,4754.23850033,2014-05-20T00:00:00.000Z,,Bike Lane
+583,3213,0.4, ,Lane,Jefferson Bl,Holdrege Ave,National Bl,2599.13839443,2014-05-27T00:00:00.000Z,,Bike Lane
+584,3214,1, ,Lane,San Vicente Bl,Beverly Bl,Burton Wy (E/B) Wilshire Bl (W/B),7034.46217226,2014-03-10T00:00:00.000Z,,Bike Lane
+585,3215,0.6, ,Lane,Banning Bl,Anaheim St,M St,3229.08308565,2014-04-14T00:00:00.000Z,,Bike Lane
+586,3216,0.8, ,Lane,West Bl,Slauson Ave,68th St.,4416.51156989,2014-05-20T00:00:00.000Z,,Bike Lane
+587,3217,0.7, ,Lane,Moorpark St,Van Nuys Bl,Colbath Ave,3743.39592252,2014-06-17T00:00:00.000Z,,Bike Lane
+588,3222,0.2, ,Lane,San Vicente Bl,Redondo Bl,La Brea Ave,2418.6582467,2014-03-09T00:00:00.000Z,,Bike Lane
+589,3224,1.6, ,Lane,G St,Wilmington Bl,Watson Ave,8321.51370628,2014-04-14T00:00:00.000Z,,Bike Lane
+590,3228,0.3, ,Lane,Wilmington Ave,Century Bl,104th St,1511.45878227,2014-05-20T00:00:00.000Z,,Bike Lane
+591,3231,0.8, ,Lane,McDonald Ave,Denni St,C St,4468.02399223,2014-04-14T00:00:00.000Z,,Bike Lane
+592,3232,0.7, ,Lane,Lakme Av,M St,G St,3758.12812132,2014-04-14T00:00:00.000Z,,Bike Lane
+593,3233,0.4, ,Lane,Denni St,Fries Ave,Banning Bl,2109.29330594,2014-04-14T00:00:00.000Z,,Bike Lane
+594,3235,0.3, ,Lane,Loyola Bl,Westchester Pkwy,Lincoln Bl,1801.43914086,2014-05-20T00:00:00.000Z,,Bike Lane
+595,3238,0.2, ,Lane,Valley Vista Bl,Woodvale Rd,Sherman Oaks Ave,1315.31160231,2014-04-09T00:00:00.000Z,,Bike Lane
+596,3305,1.7, ,Lane,48th St,Crenshaw Bl,Normandie Av,9208.044135,2014-03-13T00:00:00.000Z,,Bike Lane
+597,3307,0.06, ,Sharrowed Route,Riverside Dr,Agnes Ave,Laurel Canyon Bl,335.00928052,2013-12-26T00:00:00.000Z,,Sharrowed Bike Route
+598,3328,0.5, ,Sharrowed Route,19th St.,Gaffey St.,Crescent Ave.,2577.57082233,2014-03-07T00:00:00.000Z,,Sharrowed Bike Route
+599,3329,0.4, ,Sharrowed Route,19th St.,Western Ave.,Walker Ave.,2378.49223953,2014-03-12T00:00:00.000Z,,Sharrowed Bike Route
+600,3330,1.1, ,Sharrowed Route,13th St.,Alma St.,Beacon St.,5627.51828556,2014-03-09T00:00:00.000Z,,Sharrowed Bike Route
+601,3331,0.1, ,Sharrowed Route,Cabrillo Ave.,12th St.,14th St.,660.21560289,2014-03-09T00:00:00.000Z,,Sharrowed Bike Route
+602,3332,0.7, ,Sharrowed Route,9th St.,Gaffey St.,Beacon St.,3616.2512887,2014-03-09T00:00:00.000Z,,Sharrowed Bike Route
+603,3333,0.1, ,Sharrowed Route,Emily St.,Paseo Del Mar,37th St.,484.79174309,2014-03-23T00:00:00.000Z,,Sharrowed Bike Route
+604,3334,0.1, ,Sharrowed Route,37th St.,Emily St.,Alma St.,150.02237361,2014-03-23T00:00:00.000Z,,Sharrowed Bike Route
+605,3335,1.1, ,Sharrowed Route,Alma St.,37th,17th,5970.70478594,2014-02-09T00:00:00.000Z,,Sharrowed Bike Route
+606,3336,0.4, ,Sharrowed Route,26 th St.,Alma St.,Patton Ave.,2014.37008854,2014-03-23T00:00:00.000Z,,Sharrowed Bike Route
+607,3337,0.1, ,Sharrowed Route,Patton Ave.,26th St.,25th St.,284.89031395,2014-03-23T00:00:00.000Z,,Sharrowed Bike Route
+608,3338,1, ,Sharrowed Route,108th St.,Figueroa St.,Avalon Blvd.,5287.60750225,2014-03-05T00:00:00.000Z,,Sharrowed Bike Route
+609,3339,0.1, ,Sharrowed Route,Silver Lake Blvd.,Reservoir St.,Sunset Blvd.,337.15654005,2014-02-21T00:00:00.000Z,,Sharrowed Bike Route
+610,3340,0.4, ,Sharrowed Route,Rampart Blvd.,Hoover,6th St.,1917.80227781,2014-04-14T00:00:00.000Z,,Sharrowed Bike Route
+611,3341,0.1, ,Sharrowed Route,Manzanita St.,Sunset Blvd.,Santa Monica Blvd.,306.96740219,2014-02-21T00:00:00.000Z,,Sharrowed Bike Route
+612,3342,0.1, ,Sharrowed Route,Santa Monica Blvd.,Sunset Blvd.,Manzanita St.,386.21207356,2014-02-21T00:00:00.000Z,,Sharrowed Bike Route
+613,3343,0.5, ,Sharrowed Route,30th St.,Grand Ave.,University Ave.,2576.35118382,2014-02-22T00:00:00.000Z,,Sharrowed Bike Route
+614,3344,2.3, ,Sharrowed Route,76th St.,Crenshaw Blvd.,Vermont Ave.,12529.01485,2014-05-16T00:00:00.000Z,,Sharrowed Bike Route
+615,3345,2, ,Sharrowed Route,79th St.,Vermont Ave.,Central Ave.,10760.8959464,2014-05-16T00:00:00.000Z,,Sharrowed Bike Route
+616,3346,2, ,Sharrowed Route,San Pedro St.,Vernon Ave.,Florence Ave.,10710.2239111,2014-04-14T00:00:00.000Z,,Sharrowed Bike Route
+617,3348,0.2, ,Sharrowed Route,4th St.,Cochran Ave.,La Brea Ave.,970.18422847,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+618,3350,0.5, ,Lane,Canoga Ave.,Chatsworth St.,Devonshire St.,2642.17068189,2014-02-22T00:00:00.000Z,,Bike Lane
+619,3351,0.6, ,Lane,Sesnon Blvd.,Neon Wy.,Meadowlark Ave.,2985.89512145,2014-04-07T00:00:00.000Z,,Bike Lane
+620,3352,0.5, ,Sharrowed Route,Sesnon Blvd.,Meadowlark Ave.,Constable Ave.,2313.25086605,2014-04-07T00:00:00.000Z,,Sharrowed Bike Route
+621,3353,0.2, ,Lane,Sesnon Blvd.,Constable Ave.,Balboa Blvd.,1000.46924458,2014-04-07T00:00:00.000Z,,Bike Lane
+622,3355,0.4, ,Sharrowed Route,Califa St.,Canoga Ave.,De Soto Ave.,2316.2996101,2014-05-27T00:00:00.000Z,,Sharrowed Bike Route
+623,3356,0.5, ,Lane,Califa St.,Topanga Canyon Blvd.,Canoga Ave.,2332.80258766,2014-05-27T00:00:00.000Z,,Bike Lane
+624,3357,0.8,Backbone,Route,Figueroa St.,M St.,Lomita Blvd.,3625.58438881,2005-01-01T00:00:00.000Z,,Bike Route
+625,3358,0.7, ,Lane,Grand Ave.,30th St.,39th St.,3867.28555551,2014-05-20T00:00:00.000Z,,Bike Lane
+626,3359,0.4, ,Lane,1st St.,Vermont Ave.,Commonwealth Ave.,1899.46200838,2014-04-28T00:00:00.000Z,,Bike Lane
+627,3360,0.9, ,Lane,Chase St.,Van Nuys Blvd.,Snowden Ave.,5026.57951801,2014-04-28T00:00:00.000Z,,Bike Lane
+628,3370,0.3, ,Sharrowed Route,Woodman Ave.,Chandler Bl,Burbank Bl,1376.30062843,2014-02-20T00:00:00.000Z,,Sharrowed Bike Route
+629,3371,0.8, ,Sharrowed Route,Mulholland Dr.,JEO Flamingo St.,Topanga Canyon Blvd.,4374.07424757,2014-02-20T00:00:00.000Z,,Sharrowed Bike Route
+630,3372,0.1, ,Sharrowed Route,Miranda St.,Capistrano Ave.,Shoup Ave.,655.75646997,2014-02-20T00:00:00.000Z,,Sharrowed Bike Route
+631,3373,1.6, ,Sharrowed Route,Hatteras St.,Platt Ave.,Capistrano Ave.,7989.36084888,2014-02-18T00:00:00.000Z,,Sharrowed Bike Route
+632,3374,0.6, ,Sharrowed Route,Riverside Dr.,Los Feliz Blvd.,Glendale Blvd.,3047.82154327,2014-04-06T00:00:00.000Z,,Sharrowed Bike Route
+633,3375,3.2, ,Route,Riverside Dr.,Glendale Blvd.,San Fernando Rd.,17682.1130757,2005-01-01T00:00:00.000Z,,Bike Route
+634,3376,0.2, ,Sharrowed Route,Mosher Ave.,Ave. 43,Montecito Hgts. Rec. Ctr.,948.39734386,2014-04-10T00:00:00.000Z,,Sharrowed Bike Route
+635,3377,0.3, ,Sharrowed Route,Ave. 43,Griffin Ave.,Figueroa St.,1632.66436769,2014-05-16T00:00:00.000Z,,Sharrowed Bike Route
+636,3378,0.3, ,Sharrowed Route,San Vicente Blvd.,Bringham Ave.,Wilshire Blvd.,1331.12079672,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+637,3379,0.4, ,Sharrowed Route,Federal Ave.,Wilshire Bl,Ohio Ave,2337.34424933,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+638,3380,0.3, ,Sharrowed Route,Ocean Park Blvd.,Centinela Av,Westgate Av,1518.76604593,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+639,3381,0.1, ,Sharrowed Route,Gateway Blvd.,Westgate Av,Granville Av,365.12803561,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+640,3382,0.6, ,Sharrowed Route,Texas Ave.,Westgate Av,Centinela Av,3031.96469276,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+641,3383,0.4,Backbone,Route,Figueroa St.,Harry Bridges Bl,F St.,2258.77142784,2005-01-01T00:00:00.000Z,,Bike Route
+642,3384,0.8, ,Lane,Figueroa St.,F St.,M St.,4469.53708312,2014-06-17T00:00:00.000Z,,Bike Lane
+643,3385,0.3, ,Lane,Venice Wy,Pacific Av.,S. Venice Blvd,2112.7497013,2014-07-02T00:00:00.000Z,,Bike Lane
+644,3386,0.6, ,Lane,Riverside Dr.,Glendale Blvd.,Fletcher Drive,3147.51948196,2014-07-06T00:00:00.000Z,,Bike Lane
+645,3387,0.2, ,Sharrowed Route,Westgate Ave.,Ohio Av,Texas Av,1229.14333554,2014-05-01T00:00:00.000Z,,Sharrowed Bike Route
+646,3388,0.4, ,Lane,Pacific Ave,22nd St,15th St,2310.56345506,2014-08-06T00:00:00.000Z,,Bike Lane
+647,3389,0.7, ,Lane,Vineland Avenue,Ventura Blvd,Moorpark St (N/B),7240.0655216,2014-07-17T00:00:00.000Z,,Bike Lane
+648,3390,1.2, ,Sharrowed Route,Broadway,11th St,3rd St,5300.93748442,2014-08-09T00:00:00.000Z,,Sharrowed Bike Route
+649,3391,0.5, ,Lane,Quay Avenue,Harry Bridges Blvd,G St,2643.64609959,2014-08-25T00:00:00.000Z,,Bike Lane
+650,3392,0.3, ,Lane,C Street,Broad Ave,Lecouvreur Ave,1585.62444012,2014-08-25T00:00:00.000Z,,Bike Lane
+651,3393,0.4, ,Lane,Van Ness Avenue,Manchester Ave,81st St,2006.63736025,2014-08-25T00:00:00.000Z,,Bike Lane
+652,3394,0.5,Green,Path,LA River Bike Path West Valley Segment P2,Mason Ave,Winnetka Ave,3030.41183117,2014-08-28T00:00:00.000Z,,Bike Path
+653,3395,0.5, ,Lane,Fairfax Ave.,Fountain Ave,Hollywood Blvd,2494.82845268,2014-09-07T00:00:00.000Z,,Bike Lane
+654,3396,0.3, ,Lane,Union Ave.,Temple St,Beverly Blvd,1663.26898958,2014-09-15T00:00:00.000Z,,Bike Lane
+655,3397,1, ,Lane,Manchester Ave,Sepulveda Blvd,Osage Ave,10569.4265307,2014-09-06T00:00:00.000Z,,Bike Lane
+656,3398,0.5, ,Lane,Oxford St,Beverly Blvd,3rd St,2650.91036599,2014-09-13T00:00:00.000Z,,Bike Lane
+657,3399,0.4, ,Lane,Woodlake Avenue,Roscoe Blvd,DE N/O Chase St,2111.79615408,2014-10-20T00:00:00.000Z,,Bike Lane
+658,3400,0.8, ,Lane,Mason Avenue,Celtic St,Devonshire St,5100.88524655,2014-10-01T00:00:00.000Z,,Bike Lane
+659,3401,0.2, ,Lane,11th Street,Hoover St,Alvarado St,1176.6999735,2014-10-29T00:00:00.000Z,,Bike Lane
+660,3402,2.8, ,Path,San Fernando Rd Bike Path Phase 2,Fox St,Branford St,14996.4497121,2014-10-02T00:00:00.000Z,,Bike Path
+661,3403,0.3, ,Lane,M St.,Broad Ave,Eubank Ave,1652.13742802,2015-02-21T00:00:00.000Z,,Bike Lane
+662,3404,1, ,Lane,Venice Blvd,Lafayette Rd (W/B)/Crenshaw Blvd (E/B),Arlington Ave,5070.47589903,2015-03-01T00:00:00.000Z,,Bike Lane
+663,3405,2.85, ,Route,Venice Blvd,Arlington Ave,Figueroa St,15055.1703789,2005-01-01T00:00:00.000Z,,Bike Route
+664,3406,0.3, ,Lane,Avalon Blvd,Water St,Harry Bridges Blvd,1757.5827051,2015-02-21T00:00:00.000Z,,Bike Lane
+665,3407,0.5, ,Lane,Slauson Ave,Angeles Vista Blvd,200' E/O Alviso Ave,2585.95512978,2015-08-01T00:00:00.000Z,,Bike Lane
+666,3408,0.4, ,Lane,Devonshire St,Haskell Ave,Sepulveda Blvd,2670.15747769,2015-04-23T00:00:00.000Z,,Bike Lane
+667,3409,1.1, ,Lane,Clybourn Ave,Victory Blvd,Chandler St,5910.48632395,2015-02-27T00:00:00.000Z,,Bike Lane
+668,3410,0.6, ,Lane,Bledsoe St,"""Little"" San Fernando",200'E/O De Foe Ave,3303.79250137,2015-03-18T00:00:00.000Z,,Bike Lane
+669,3411,0.3, ,Cycletrack,Reseda Blvd,Gresham St,Nordhoff St,1720.18687115,2015-06-24T00:00:00.000Z,,Cycletrack
+670,3412,0.2,Backbone,Lane,Reseda Blvd,Devonshire St,Nordhoff St,7924.28832575,2010-09-19T00:00:00.000Z,,Bike Lane
+671,3413,0.1,Backbone,Lane,Reseda Blvd,Gresham St,Parthenia St,919.95889137,2010-09-19T00:00:00.000Z,,Bike Lane
+672,3414,1.2, ,Lane,Vineland Ave,Ventura Blvd (S/B)/Moorpark St (N/B),Chandler Blvd,16551.5403619,2015-08-28T00:00:00.000Z,,Bike Lane
+673,3415,0.5, ,Lane,Louise Ave,Lassent St,Plummer St,2639.75300611,2015-09-05T00:00:00.000Z,,Bike Lane
+674,3416,0.5, ,Lane,Edgemont Ave,Melrose Ave,Santa Monica Blvd,2645.65694458,2015-10-01T00:00:00.000Z,,Bike Lane
+675,3417,0.75, ,Sharrowed Route,Edgemont Ave,Santa Monica Blvd,Hollywood,3974.27736869,2013-04-21T00:00:00.000Z,,Sharrowed Bike Route
+676,3418,1.2, ,Lane,Pacific Ave,15th St,O'Farrell St,5611.19180514,2015-09-22T00:00:00.000Z,,Bike Lane
+677,3420,1.9,BEN,Lane,Imperial Highway,Broadway,Compton Ave,9987.93046449,2016-03-21T00:00:00.000Z,,Bike Lane
+678,1970,0.4, ,Lane,Ohio Ave,Centinela Ave,Santa Monica Blvd,2139.88146472,2012-08-17T00:00:00.000Z,,Bike Lane

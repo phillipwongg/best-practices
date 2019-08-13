@@ -1,0 +1,6 @@
+datasets="/opt/conda/lib/R/library/datasets"
+grDevices="/opt/conda/lib/R/library/grDevices"
+graphics="/opt/conda/lib/R/library/graphics"
+methods="/opt/conda/lib/R/library/methods"
+stats="/opt/conda/lib/R/library/stats"
+utils="/opt/conda/lib/R/library/utils"
